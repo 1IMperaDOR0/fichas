@@ -1,0 +1,443 @@
+# ⚔️ **NOAH OMAR**
+
+![Noah Omar](src/assets/images/Noah%20Omar.jpg)
+
+### Humano • Paladino • Origem: Soldado • 27 anos • 1,80 m
+
+---
+
+# 📖 **HISTÓRIA**
+
+Noah Omar, o humano paladino, nasceu em circunstâncias sombrias que moldaram sua determinação e caráter. Pendurado de um corpo morto, vítima da superstição que o acusava de ser filho de uma bruxa ladra, sua infância foi uma luta constante pela sobrevivência.
+
+Por um golpe do destino, um esquadrão de soldados devotos do Deus Thyatis, liderados pelo corajoso Capitão Alaric, passou pela aldeia e encontrou o bebê Noah, quase sem vida. Com compaixão e piedade, eles decidiram resgatá-lo, vendo nele a chance de um novo começo. O próprio Capitão Alaric, que havia perdido sua esposa e filhos para uma praga anos atrás, sentiu um vínculo especial com o órfão e o levou sob suas asas.
+
+Noah cresceu na fortaleza dos devotos de Thyatis, onde foi criado como um dos seus próprios filhos. Sob os cuidados de Alaric e dos soldados, ele aprendeu não apenas as artes da paladinia, mas também os valores de compaixão, lealdade e justiça. Ele se tornou inseparável do filho mais novo de Alaric, que sobreviveu a praga, um jovem chamado Jumbo, e juntos enfrentaram muitas aventuras e desafios. Toda vez que estava treinando se sentia observado por trás, mas quando virava não encontrava nada
+
+À medida que crescia, Noah desenvolveu uma devoção inabalável a Thyatis, orando e meditando diariamente para buscar orientação divina. Sua sede de amizade o impelia a conquistar o coração de todos com quem cruzasse, e ele acreditava que, através da amizade e da compreensão, poderia trazer a luz até mesmo aos corações mais sombrios.
+
+Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido falar de suas habilidades e devoção, propôs a missão de explorar a estrutura à deriva no espaço. Intrigado pelo potencial pagamento Noah aceitou o desafio. Assim, ele se lançou ao desconhecido, unido pela coragem, amizade e um desejo inabalável de fazer o bem no universo, sem imaginar os mistérios e perigos que o aguardavam.
+
+---
+
+# 📌 **INFORMAÇÕES DO PERSONAGEM**
+
+**Nome:** Noah Omar
+
+**Raça:** Humano
+
+**Nível:** 16 (precisa upar)
+
+**Classe:** Paladino
+
+**Origem:** Soldado
+
+**Idade:** 27
+
+**Altura:** 1,80 m
+
+---
+
+# 💠 **ATRIBUTOS**
+
+| Atributo         | Valor |
+| ---------------- | ----- |
+| **Carisma**      | 8     |
+| **Constituição** | 3     |
+| **Destreza**     | 4     |
+| **Força**        | 3     |
+| **Inteligência** | 0     |
+| **Sabedoria**    | 2     |
+
+---
+
+# ❤️ **PONTOS DE VIDA**
+
+* **PV Total:** 160
+* **PV Atuais:** 160 (**+64**)
+
+---
+
+# 🔵 **PONTOS DE MANA**
+
+* **PM Total:** 60
+* **PM Atuais:** 60 (**+32**)
+
+---
+
+# 🛡️ **CLASSE DE ARMADURA**
+
+* **CA Total:** 36 (**+8**)
+
+---
+
+# 🗡️ **ARMAS**
+
+### **Besta Leve**
+
+* Ataque: **1d20 + 4**
+* Dano: **1d8**
+* Crítico: **19–20/x2**
+
+### **Escudo (ataque)**
+
+* Ataque: **1d20 + 14**
+* Dano: **1d4 + 3**
+* Crítico: 19–20/x2
+
+### **Espada Longa**
+
+* Ataque: **1d20 + 14**
+* Dano: **1d8 + 3**
+* Crítico: 19–20/x2
+
+---
+
+# 👑 **ESPADA DA REALEZA**
+
+**Ataque:**
+1d20 + 18 + 8 + 5
+**Dano:** 1d8 + 5
+**Crítico:** 19–20/x2
+
+**Propriedades:**
+
+* +1 em ataque e dano
+* Pode aumentar até +4 se:
+
+  * possuir código de conduta
+  * for devoto de Khalmyr
+  * possuir Treinamento em Nobreza
+* Bônus são **cumulativos**
+* +2 de CA (Aprimoramento Defesa)
+* Velocidade: +1 ataque adicional por **1 PM**
+
+---
+
+# ✨ **HABILIDADES ESPECIAIS**
+
+### **Olho da Tormenta**
+
+* +5 Percepção
+* Visão perfeita no escuro (inclui escuridão mágica)
+* Não pode ser flanqueado
+* Pode lançar *Visão da Verdade*
+
+---
+
+### **Anel de Proteção**
+
++2 Defesa
+
+---
+
+### **Aumento de Atributo (3x)**
+
++1 em um atributo cada vez
+
+---
+
+### **Aura Antimagia**
+
+Aliados dentro da aura podem **rolar novamente** testes de resistência contra magia
+
+---
+
+### **Aura Sagrada**
+
+Gasta 1 PM
+Bônus = Carisma nos testes de resistência
+Brilha como uma tocha
+Custo para manter: 1 PM/turno
+
+---
+
+### **Aura de Cura**
+
+Quando a aura está ativa:
+
+* Cura **5 + Carisma** no início do turno
+
+---
+
+### **Aura Divina**
+
+Todos os efeitos da aura **são dobrados**
+
+---
+
+### **Ataque Piedoso**
+
+Pode causar dano não letal sem penalidade
+
+---
+
+### **Brado Assustador**
+
+* Ação de movimento + 1 PM
+* Inimigos em alcance curto ficam **vulneráveis**
+
+---
+
+### **Consagrar**
+
+Área: esfera 9 m
+
+* Cura de luz é **maximizada**
+* +1 PM: mortos-vivos –2 testes e Defesa
+* +2 PM: aumenta penalidade
+
+---
+
+### **Cura pelas Mãos**
+
+1 PM → cura **1d8+1**
++1 PM a cada 4 níveis → +1d8+1
+A partir do nível 6 pode remover condições
+
+---
+
+### **Dom da Imortalidade**
+
+Se morrer, retorna à vida em **3d6 dias**
+
+---
+
+### **Estilo de Arma e Escudo**
+
+Escudo fornece **+2 adicional** de Defesa
+
+---
+
+### **Égide Sagrada**
+
+2 PM → bônus de Carisma à Defesa de você e adjacentes
+11º nível: pode refletir magias
+
+---
+
+### **Esquiva**
+
++2 Defesa e Reflexos
+
+---
+
+### **Encouraçado**
+
++2 Defesa com armadura pesada
++2 adicionais por poderes que exijam Encouraçado
+
+---
+
+### **Fanático**
+
+Armadura pesada não reduz deslocamento
+
+---
+
+### **Golpe Divino**
+
+2 PM: soma Carisma no ataque + **1d12** dano
+A cada 4 níveis, pode gastar +1 PM para +1d12
+
+---
+
+### **Julgamento Divino – Coragem**
+
+2 PM → imunidade a medo +2 ataque contra o inimigo mais forte
+
+### **Julgamento Divino – Justiça**
+
+2 PM → marca inimigo
+Se causar dano depois, CD de Vontade = **10 + metade do nível + Carisma**
+
+---
+
+### **Sortudo**
+
+3 PM → rerolar 1 teste
+
+---
+
+### **Surto Heroico**
+
+5 PM → ação padrão ou movimento adicional
+
+---
+
+### **Virtude Paladinesca – Compaixão**
+
+*Cura pelas Mãos* em alcance curto:
+Para cada PM → cura **2d6+1**
+
+---
+
+### **Virtude Paladinesca – Humildade**
+
+Primeiro turno:
+Ação completa → ganha PM temporários = Carisma
+
+---
+
+### **Vitalidade**
+
++1 PV por nível
++2 Fortitude
+
+---
+
+### **Vontade de Ferro**
+
++1 PM por 2 níveis
++2 Vontade
+
+---
+
+### **Benção de Megalokk — O Chamado Bestial**
+
+Ação padrão + 5 PM →
++5 ataque
++5 dano
++10 redução de dano
+Sustentar: ação livre + 3 PM
+
+---
+
+### **Maldição de LinWu — O Desonrado**
+
+-5 ataque contra inimigo sem status negativo
++5 para resistirem às suas magias
+
+---
+
+# 🔥 **ALIADOS**
+
+---
+
+## **TOCHA – A FÊNIX DA TORMENTA**
+
+Ligada à Tormenta, fiel a Noah, capaz de lutar mesmo após sua morte.
+
+### **Formas**
+
+* Média (sem voo)
+* Grande (com voo)
+
+### **Habilidades**
+
+**Baforada:**
+
+* Cone 6 m
+* **12d6 + 12** dano de fogo
+* Reflexos reduz metade (CD = 10 + metade do nível + Carisma)
+
+**Conjurações ilimitadas:**
+
+* Raio Solar
+* Augúrio
+* Coluna de Chamas
+* Sopro da Salvação
+
+*(Gasta PM normalmente. Pode conjurar com ação livre gastando +3 PM.)*
+
+**Restauração Inconcebível:**
+Aura 3 m
+
+* +2 PM temporários para aliados (não acumula)
+
+---
+
+## **Shamash — Escudeiro Guardião (Veterano)**
+
+* +3 Defesa para Noah
+* +2 testes de resistência
+
+---
+
+# 🧠 **PERÍCIAS**
+
+(atributo + treinamento + nível + bônus extras)
+
+* **Acrobacia:** +7
+* **Cura:** +15
+* **Furtividade:** +7
+* **Diplomacia:** +21
+* **Fortitude:** +18
+* **Iniciativa:** +17
+* **Intimidação:** +21
+* **Investigação:** +13
+* **Ladinagem:** +7
+* **Luta:** +16
+* **Percepção:** +20
+* **Reflexos:** +17
+* **Religião:** +15
+* **Vontade:** +17
+
+---
+
+# 🔥 **COMBO DO NOAH — TURNO A TURNO**
+
+### **Bônus permanente:**
+
+**+8 em testes de resistência e habilidades**
+
+---
+
+## **TURNO 1 – EXPLOSÃO DIVINA**
+
+* 1 PM → ativar aura (ação livre)
+
+  * Cura **26 por turno**
+  * +16 e vantagem em testes de resistência
+* 1 PM → Brado Assustador (inimigos vulneráveis, –2 CA)
+* 2 PM → Julgamento Divino (Justiça – CD 26)
+* 5 PM → Surto Heroico (ação extra)
+* 2 PM → Égide Sagrada
+* 15 PM → Coluna de Chamas (**21d6**, Reflexos CD 26)
+
+---
+
+## **TURNO 2 – SANTIFICAÇÃO TOTAL**
+
+* Recupera 2 PM
+* 1 PM → sustentar aura
+* 1 PM → Consagrar área
+* 5 PM → Surto Heroico
+* 5 PM → Cura pelas Mãos (10d6 cura) ou remover condição (1 PM)
+* 15 PM → Coluna de Chamas (21d6)
+
+---
+
+## **TURNO 3 – JULGAMENTO INCENDIÁRIO**
+
+* Recupera 2 PM
+* 1 PM → sustentar aura
+* Preparar ações de cura
+* 5 PM → Surto Heroico
+* 5 PM → +5 ataque e dano; RD 10
+* **Baforada da Fênix:** 12d6 + 12 (CD 26)
+
+---
+
+## **TURNO 4 – A MURALHA SAGRADA** (fixo)
+
+* Recupera 2 PM
+* 1 PM → sustentar aura
+* 3 PM → sustentar Megalokk
+* Preparar cura
+* **Baforada da Fênix** (12d6 + 12)
+
+---
+
+## **TURNO 5 – SALVAÇÃO EM MASSA**
+
+* Recupera 2 PM
+* 1 PM → sustentar aura
+* 3 PM → sustentar Megalokk
+* Preparar cura
+* 14 PM → Sopro da Salvação
+
+  * Cone 9 m
+  * **4d8 + 6** e levanta aliados do 0
+
+---
