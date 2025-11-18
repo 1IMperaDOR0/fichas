@@ -53,15 +53,15 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 160
-* **PV Atuais:** 160 (**+64**)
+* **PV Total:** 169
+* **PV Atuais:** 169 (**+64**)
 
 ---
 
 # 🔵 **PONTOS DE MANA**
 
-* **PM Total:** 60
-* **PM Atuais:** 60 (**+32**)
+* **PM Total:** 65
+* **PM Atuais:** 65 (**+32**)
 
 ---
 
@@ -114,7 +114,7 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 ---
 
-# ✨ **HABILIDADES ESPECIAIS**
+# ✨ **HABILIDADES**
 
 ### **Olho da Tormenta**
 
@@ -122,6 +122,14 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 * Visão perfeita no escuro (inclui escuridão mágica)
 * Não pode ser flanqueado
 * Pode lançar *Visão da Verdade*
+
+---
+
+### **Serenidade das Ondas**
+
+* Habilidades custam metade de mana. 
+* Perde quando toma 10% de dano de vida em 1 ataque. 
+* Aprende "Sopro das Uivantes" e custa -1 PM
 
 ---
 
@@ -212,7 +220,7 @@ Escudo fornece **+2 adicional** de Defesa
 ### **Égide Sagrada**
 
 2 PM → bônus de Carisma à Defesa de você e adjacentes
-11º nível: pode refletir magias
+11º nível: pode refletir magias (só se a magia for contra você)
 
 ---
 
@@ -262,6 +270,12 @@ Se causar dano depois, CD de Vontade = **10 + metade do nível + Carisma**
 ### **Surto Heroico**
 
 5 PM → ação padrão ou movimento adicional
+
+---
+
+### **Virtude Paladinesca – Caridade**
+
+Habilidades que tenham um aliado como alvo é reduzido em 1 PM
 
 ---
 
@@ -316,6 +330,8 @@ Sustentar: ação livre + 3 PM
 
 ## **TOCHA – A FÊNIX DA TORMENTA**
 
+![Tocha](src/assets/images/Tocha.png)
+
 Ligada à Tormenta, fiel a Noah, capaz de lutar mesmo após sua morte.
 
 ### **Formas**
@@ -349,6 +365,8 @@ Aura 3 m
 
 ## **Shamash — Escudeiro Guardião (Veterano)**
 
+![Shamash](src/assets/images/Shamash.png)
+
 * +3 Defesa para Noah
 * +2 testes de resistência
 
@@ -375,11 +393,7 @@ Aura 3 m
 
 ---
 
-# 🔥 **COMBO DO NOAH — TURNO A TURNO**
-
-### **Bônus permanente:**
-
-**+8 em testes de resistência e habilidades**
+# 🔮 **COMBO DE COMBATE**
 
 ---
 
@@ -439,5 +453,9 @@ Aura 3 m
 
   * Cone 9 m
   * **4d8 + 6** e levanta aliados do 0
+
+---
+
+# 📝 **ANOTAÇÕES**
 
 ---

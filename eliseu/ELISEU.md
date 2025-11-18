@@ -33,7 +33,7 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 ---
 
-# 📌 **INFORMAÇÕES GERAIS**
+# 📌 **INFORMAÇÕES DO PERSONAGEM**
 
 **Nome:** Eliseu Babosa
 
@@ -51,10 +51,6 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 **Idiomas:** Comum, Celestial, Abissal
 
-**PV:** 19
-
-**CA:** 14
-
 **Bônus de Proficiência:** +3
 
 **Iniciativa:** +2
@@ -65,9 +61,9 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 **Ataque Mágico:** +9
 
-**Pontos de Sorte:** 2
+**Pontos de Sorte:** 3 - Não adquirido
 
-**PO:** 30
+**PO:** 1543
 
 ---
 
@@ -81,6 +77,19 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 | Sabedoria    | 12     | +1          |
 | Inteligência | 12     | +1          |
 | Força        | 10     | +0          |
+
+---
+
+# ❤️ **PONTOS DE VIDA**
+
+* **PV Total:** 19 (**-1**)
+* **PV Atuais:** 19
+
+---
+
+# 🛡️ **CLASSE DE ARMADURA**
+
+* **CA Total:** 14
 
 ---
 
@@ -101,10 +110,10 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 ### **Testes de Resistência**
 
-* Constituição
-* Carisma
+* Constituição (**+5**)
+* Carisma (**+8**)
 
-### **Perícias**
+### **Perícias Escolhidas**
 
 * Medicina (dobro de proficiência)
 * Religião
@@ -186,7 +195,7 @@ Nível 20:
 
 ---
 
-# ⚔️ **SUBCLASSE: ORDEM DOS CAVALEIROS HOSPITALARES**
+# ⚔️ **HABILIDADES DE SUBCLASSE: ORDEM DOS CAVALEIROS HOSPITALARES**
 
 ---
 
@@ -204,14 +213,14 @@ Proficiência adicional com:
 
 Usa **Carisma** para:
 
-* CA com armadura
-* Ataques e dano com armas
+* CA com armadura (substitui Destreza)
+* Ataques e dano com armas (substitui Força ou Destreza)
 
 ---
 
 ## **IMPOSIÇÃO DE MÃOS (Nível 3)**
 
-Pool de cura = 5 × nível de Curandeiro.
+Pool de cura = 5 × nível de Curandeiro. Com uma ação eu posso tocar uma criatura e restaurar uma quantidade de pontos de vida que você retirar da pool.
 
 ---
 
@@ -236,7 +245,7 @@ Pode finalizar uma magia em si ou aliado (mod Carisma por descanso longo).
 
 ## **CORRENTE DE CURA (Nível 18)**
 
-Cura adicional ao lançar magias:
+Cura adicional ao lançar magias (1 alvo):
 
 * mod Carisma + nível da magia
 * Alcance: 18 m
@@ -276,8 +285,8 @@ Cura adicional ao lançar magias:
 **Tipo:** Celestial (Ovelha Celestial)
 
 **CA:** 13
-**PV:** 15
-**Deslocamento:** 9 m / voo 22 m
+**PV:** 20 (5 + 5x seu nível)
+**Deslocamento:** 9 m (caminhada), 22 m (voo)
 
 **Atributos:**
 FOR 14 (+2), DES 14 (+2), CON 14 (+2), INT 11 (+0), SAB 13 (+1), CAR 15 (+2)
@@ -305,11 +314,13 @@ FOR 14 (+2), DES 14 (+2), CON 14 (+2), INT 11 (+0), SAB 13 (+1), CAR 15 (+2)
 
 # 😈 **FAMILIAR — SALUS**
 
+![Salus](src/assets/images/Salus.png)
+
 Tipo: Celestial (Diabrete Celestial)
 
 **CA:** 11
 **PV:** 1
-**Deslocamento:** 1,5 m / voo 18 m
+**Deslocamento:** 1,5 m (caminhada), 18 m (voo)
 
 **Atributos:**
 FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
@@ -344,42 +355,61 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 # ⭐ **TALENTOS E HABILIDADES ADICIONAIS**
 
-* Visão no Escuro
-* **Semblante da Esperança:** cura em área 1x por descanso longo
+* Visão no Escuro (até 18 m)
+* **Semblante da Esperança:** cura 1d6 + mod Carisma em uma área de 6 m (1x por descanso longo)
 * **Fluxo Cuidadoso:** progressão de habilidades de cura (nível 0–20)
+    ``` 
+    Nível 0 - Você aprende a magia restauração menor, e pode conjurar ela uma vez por dia sem usarespaços de magia
+
+    Nível 4 - Eu cuido de você: quando restaura vida de um aliado, a cura aumenta em 3 pontos por dadorolado
+
+    Nível 8 - Você cuida de mim: quando conjurar uma magia em um aliado, você pode escolherestabelecer uma conexão magica com ele, se fizer isso, pode se comunicar telepaticamente com esse aliado, e o dano recebido por você é compartilhado com esse aliado, somente uma conexão pode existir por vez
+
+    Nível 12 - Nós cuidamos deles: quando conjurar uma magia em um aliado, você e ele realizam uma ação de movimento imediatamente
+
+    Nível 16 - Com o poder da amizade: No momento que um aliado cair no estado morrendo, você pode usar uma reação e 25 pontos de vida para curar 10 de vida desse aliado, essa habilidade ativa "nós cuidamos deles"
+
+    Nível 20 - Somos imparáveis: Com uma ação completa, você pode estabelecer uma conexão magica com todos os aliados, unindo os pontos de vida de todos em um só, efeitos de cura nesse estado são dobrados
+    ```
 * **Pastor de Ovelhas:** aura protetiva; cura reduzida em si mesmo
+    ```
+    Você se sente responsável por aliados próximos a você, assim como um pastor de ovelhas com o seu rebanho. Com uma ação e um espaço de magia nível 1, você pode ativar uma aura de 3 metros que concede os seguintes benefícios: sempre que um aliado precisar realizar um teste de resistência, ele ganha um bônus no teste igual ao seu modificador de Carisma, eles ganham vida temporária igual o seu valor de Carisma e não provocam ataques de oportunidade enquanto estiverem no alcance. Porém você se importa muito com seus aliados que acaba se esquecendo de se concentrar em você. Efeitos de cura tem metade de eficiência em você. Com um espaço de magia nível 2 o alcance aumenta para 9 metros e com um nível 3 aumenta para 27 metros.
+    ```
 * **Protetor:** cura gratuita; pode maximizar nível da magia
-* **Sortudo:** 3 pontos de sorte (ataques, testes, resistência)
+    ```
+    Você escolheu canalizar sua benção de maneira bondosa e harmônica, você aprende a magia “Curar Ferimentos” e pode usar sem gastar espaços de magia um número de vezes igual ao seu bônus de proficiência (recupera após um descanso longo), fora isso, quando conjurar uma magia que forneça cura em qualquer forma, você pode escolher conjurar a magia no maior nível que conseguir (o espaço de magia gasto ainda é o mesmo), e se fizer isso você recebe um bônus na cura igual a quantidade de dados que foram jogados.
+    ```
+* **Sortudo:** 3 pontos de sorte (ataques, testes, resistência) - Não adquirido
 * **Macarronada da Zyneia:** +2 PV permanente
 * **Robusto:** +2 PV por nível
-* **Fama – Nível 1**
-* **Marca da Adaga com um Olho**
 * **Carta XV — Demônio**
-* **Chamado do Topázio**
+    ```
+    Qualquer efeito que o Eliseu causar em um aliado, ele recebe o valor de proficiência no seu dano e recebe isso de dano. Além disso, esse dano causado nele, pode ser usado para somar em qualquer teste, depois de usado ele acaba (não é acumulativo).
+    ```
 
 ---
 
-# 🧪 **TESTES DE HABILIDADE**
+# 🧠 **PERÍCIAS**
 
 * Acrobacia +2
-* Arcanismo +4
+* **Arcanismo +4**
 * Atletismo +0
 * Atuação +5
 * Enganação +2
-* Furtividade +5
-* História +3 (+5 sobre Deuses)
+* **Furtividade +5**
+* **História +3 (+5 sobre Deuses)**
 * Intimidação +5
-* Intuição +4
-* Investigação +4
-* Lidar com Animais +4
-* **Medicina +7**
+* **Intuição +4**
+* **Investigação +4**
+* **Lidar com Animais +4**
+* **Medicina +7***
 * Natureza +1
-* Cozinhar +8 (**+40 com Macarronada**)
-* Percepção +4
-* Persuasão +8
+* Cozinhar +13 (**+40 com Macarronada / +50 com lasanhas**)
+* **Percepção +4**
+* **Persuasão +8**
 * Prestidigitação +2
-* Religião +4 (+5 sobre Deuses)
-* Sobrevivência +4
+* **Religião +4 (+5 sobre Deuses)**
+* **Sobrevivência +4**
 
 ---
 
@@ -390,7 +420,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Marca da Adaga com um Olho
 * Carta XV (Demônio)
 * Chamado do Topázio
-* Chave do Quarto (238)
+* Chave do Quarto (nº 238)
 * Armadura de Couro Batido (CA 12 + DES)
 * Escudo (CA +2)
 * Foice
@@ -400,3 +430,9 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Funda
 * 30 Pedras
 * Mydemius/Myday
+
+---
+
+# 📝 **ANOTAÇÕES**
+
+---
