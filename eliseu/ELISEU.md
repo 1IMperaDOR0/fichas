@@ -57,9 +57,9 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 **Deslocamento:** 9 m (caminhada), 9 m (voo)
 
-**CD de Magia:** 17
+**CD de Magia:** 16 (+2 para Evocação)
 
-**Ataque Mágico:** +9
+**Ataque Mágico:** +8
 
 **Pontos de Sorte:** 3 - Não adquirido
 
@@ -82,8 +82,8 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 19 (**-1**)
-* **PV Atuais:** 19
+* **PV Total:** 16 (**-4**)
+* **PV Atuais:** 16
 
 ---
 
@@ -150,7 +150,7 @@ Magias de cura de 1º nível ou superior adicionam seu modificador de Carisma **
 Criatura invocável por 1 hora.
 Efeitos iniciais:
 
-* Aliados a 3 m recuperam PV = mod. Carisma ao serem invocados
+* Aliados a 3 m recuperam PV = mod Carisma ao invocar
 * Obedece comandos
 * Em combate só usa Esquiva, a menos que comandado
 * Pode ser invocado 2x por descanso curto/longo
@@ -308,7 +308,7 @@ FOR 14 (+2), DES 14 (+2), CON 14 (+2), INT 11 (+0), SAB 13 (+1), CAR 15 (+2)
 
 * **Pancada:** 1d8 + PB (contundente)
 * **Raio Celestial:** 1d8 + PB (radiante)
-* **Teletransporte (4,5 m):** concede 1d4 + PB de PV temporários
+* **Teletransporte:** Teletransporta criaturas em um raio de 1,5 m a até 4,5 m e concede 1d4 + PB de PV temporários
 
 ---
 
@@ -348,6 +348,9 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 * Ação: cura ou *Raio de Gelo*
 * Pode usar *Curar Ferimentos* 2x sem gastar espaço
+* As curas são no maior nível que eu posso conjurar
+* A cura é máximizada
+* Usar a pool para curar alguém
 * Familiar analisa ambiente
 * Mover-se estrategicamente
 
@@ -357,13 +360,13 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 * Visão no Escuro (até 18 m)
 * **Semblante da Esperança:** cura 1d6 + mod Carisma em uma área de 6 m (1x por descanso longo)
-* **Fluxo Cuidadoso:** progressão de habilidades de cura (nível 0–20)
+* **Fluxo Cuidadoso:** progressão de habilidades de cura (nível 8)
     ``` 
     Nível 0 - Você aprende a magia restauração menor, e pode conjurar ela uma vez por dia sem usarespaços de magia
 
     Nível 4 - Eu cuido de você: quando restaura vida de um aliado, a cura aumenta em 3 pontos por dadorolado
 
-    Nível 8 - Você cuida de mim: quando conjurar uma magia em um aliado, você pode escolherestabelecer uma conexão magica com ele, se fizer isso, pode se comunicar telepaticamente com esse aliado, e o dano recebido por você é compartilhado com esse aliado, somente uma conexão pode existir por vez
+    Nível 8 - Você cuida de mim: quando conjurar uma magia em um aliado, você pode escolher estabelecer uma conexão magica com ele, se fizer isso, pode se comunicar telepaticamente com esse aliado, e o dano recebido por você é compartilhado com esse aliado, somente uma conexão pode existir por vez.
 
     Nível 12 - Nós cuidamos deles: quando conjurar uma magia em um aliado, você e ele realizam uma ação de movimento imediatamente
 
@@ -374,6 +377,11 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * **Pastor de Ovelhas:** aura protetiva; cura reduzida em si mesmo
     ```
     Você se sente responsável por aliados próximos a você, assim como um pastor de ovelhas com o seu rebanho. Com uma ação e um espaço de magia nível 1, você pode ativar uma aura de 3 metros que concede os seguintes benefícios: sempre que um aliado precisar realizar um teste de resistência, ele ganha um bônus no teste igual ao seu modificador de Carisma, eles ganham vida temporária igual o seu valor de Carisma e não provocam ataques de oportunidade enquanto estiverem no alcance. Porém você se importa muito com seus aliados que acaba se esquecendo de se concentrar em você. Efeitos de cura tem metade de eficiência em você. Com um espaço de magia nível 2 o alcance aumenta para 9 metros e com um nível 3 aumenta para 27 metros.
+    ```
+* **Estudioso:** as suas curas aumentam +1
+* **Benção de Aurea (Luz e Cura):** a sua cura é máx e seu dano é mín
+    ```
+    O Eliseu também pode conjurar magias de cura em sua forma verdadeira... se ele treinar o suficiente.
     ```
 * **Protetor:** cura gratuita; pode maximizar nível da magia
     ```
@@ -392,7 +400,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 # 🧠 **PERÍCIAS**
 
 * Acrobacia +2
-* **Arcanismo +4**
+* **Arcanismo +4** (soma o nível para descobrir a magia)
 * Atletismo +0
 * Atuação +5
 * Enganação +2
