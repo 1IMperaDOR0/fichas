@@ -82,14 +82,14 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 16 (**-4**)
-* **PV Atuais:** 16
+* **PV Total:** 24 (**-2**)
+* **PV Atuais:** 24
 
 ---
 
 # 🛡️ **CLASSE DE ARMADURA**
 
-* **CA Total:** 14
+* **CA Total:** 17
 
 ---
 
@@ -332,6 +332,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 * **Sobrevoo:** não provoca ataques de oportunidade
 * **Visão Aguçada:** vantagem em Percepção baseada em visão
+* **Direcionamento de dano:** 1 vez por turno, o Salus pode redirecionar dano que o Eliseu tomar
 
 ---
 
@@ -347,9 +348,9 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 ### **Rotação Fixa**
 
 * Ação: cura ou *Raio de Gelo*
-* Pode usar *Curar Ferimentos* 2x sem gastar espaço
+* Pode usar *Curar Ferimentos* 3x sem gastar espaço
 * As curas são no maior nível que eu posso conjurar
-* A cura é máximizada
+* A cura é máximizada e +1
 * Usar a pool para curar alguém
 * Familiar analisa ambiente
 * Mover-se estrategicamente
@@ -362,7 +363,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * **Semblante da Esperança:** cura 1d6 + mod Carisma em uma área de 6 m (1x por descanso longo)
 * **Fluxo Cuidadoso:** progressão de habilidades de cura (nível 8)
     ``` 
-    Nível 0 - Você aprende a magia restauração menor, e pode conjurar ela uma vez por dia sem usarespaços de magia
+    Nível 0 - Você aprende a magia restauração menor, e pode conjurar ela uma vez por dia sem usar espaços de magia
 
     Nível 4 - Eu cuido de você: quando restaura vida de um aliado, a cura aumenta em 3 pontos por dadorolado
 
@@ -383,7 +384,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
     ```
     O Eliseu também pode conjurar magias de cura em sua forma verdadeira... se ele treinar o suficiente.
     ```
-* **Protetor:** cura gratuita; pode maximizar nível da magia
+* **Protetor:** cura gratuita e pode maximizar nível da magia
     ```
     Você escolheu canalizar sua benção de maneira bondosa e harmônica, você aprende a magia “Curar Ferimentos” e pode usar sem gastar espaços de magia um número de vezes igual ao seu bônus de proficiência (recupera após um descanso longo), fora isso, quando conjurar uma magia que forneça cura em qualquer forma, você pode escolher conjurar a magia no maior nível que conseguir (o espaço de magia gasto ainda é o mesmo), e se fizer isso você recebe um bônus na cura igual a quantidade de dados que foram jogados.
     ```
@@ -442,5 +443,20 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 ---
 
 # 📝 **ANOTAÇÕES**
+
+**Evento do Devon**
+* Objetivo: Chegar no andar 0
+* Causas: Monstros grandes espalhados
+* Consequência: Morrer é para sempre
+* Ajudante: Uma caveira mágica
+* Problema: Metaleros, Magos, Vampiros, Chapéus, Gêmeos
+* Presente: Carta de Troca
+* Carta de Presente: 1 item do seu inventário
+* Carta de Troca: 1 item do inventário inimigo
+* Vitória: Destruir caveira ou matar
+* Descanso longo: não recupera a vida toda, cura o nível e pode gastar dado de vida para curar mais
+* Descanso curto: recupera 1 espaço de magia por dado de vida
+* Comida: Recupera +5 PV
+* Bebida: Recupera o espaço de magia mais alto
 
 ---
