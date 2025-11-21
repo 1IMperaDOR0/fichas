@@ -347,7 +347,6 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 ### **Rotação Fixa**
 
-* Ação: cura ou *Raio de Gelo*
 * Pode usar *Curar Ferimentos* 3x sem gastar espaço
 * As curas são no maior nível que eu posso conjurar
 * A cura é máximizada e +1
