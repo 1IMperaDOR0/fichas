@@ -306,13 +306,13 @@ FOR 14 (+2), DES 14 (+2), CON 14 (+2), INT 11 (+0), SAB 13 (+1), CAR 15 (+2)
 
 ### **Ações**
 
-* **Pancada:** 1d8 + PB (contundente)
-* **Raio Celestial:** 1d8 + PB (radiante)
+* **Pancada:** Ataque mágico para atingir = 1d8 + PB (contundente)
+* **Raio Celestial:**  Ataque mágico para atingir = 1d8 + PB (radiante)
 * **Teletransporte:** Teletransporta criaturas em um raio de 1,5 m a até 4,5 m e concede 1d4 + PB de PV temporários
 
 ---
 
-# 😈 **FAMILIAR — SALUS**
+# 😈 **FAMILIAR — SALUS WIDE**
 
 ![Salus](src/assets/images/Salus.png)
 
@@ -341,7 +341,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 ### **Início**
 
 * Ativar Aura
-* Invocar Familiar
+* Invocar Companheiro (6 de vida em um raio de 6 m)
 * Familiar analisa ambiente
 * Mover para ponto estratégico
 
@@ -349,7 +349,8 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 * Pode usar *Curar Ferimentos* 3x sem gastar espaço
 * As curas são no maior nível que eu posso conjurar
-* A cura é máximizada e +1
+* A cura é máximizada e soma +1
+* Teleportar Companheiro (3 de vida temporária)
 * Usar a pool para curar alguém
 * Familiar analisa ambiente
 * Mover-se estrategicamente
@@ -457,5 +458,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Descanso curto: recupera 1 espaço de magia por dado de vida
 * Comida: Recupera +5 PV
 * Bebida: Recupera o espaço de magia mais alto
+* Recuperado: Carta do Diabo
+* Recuperado: Escudo (símbolo sagrado)
 
 ---
