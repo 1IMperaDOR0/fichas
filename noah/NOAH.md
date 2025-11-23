@@ -54,14 +54,14 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 # ❤️ **PONTOS DE VIDA**
 
 * **PV Total:** 169
-* **PV Atuais:** 169 (**+64**)
+* **PV Atuais:** 215 (**+64**)
 
 ---
 
 # 🔵 **PONTOS DE MANA**
 
 * **PM Total:** 65
-* **PM Atuais:** 65 (**+32**)
+* **PM Atuais:** 73 (**+32**)
 
 ---
 
@@ -374,22 +374,22 @@ Aura 3 m
 
 # 🧠 **PERÍCIAS**
 
-(atributo + treinamento + nível + bônus extras)
+(atributo + treinamento + metade do nível + bônus extras)
 
-* **Acrobacia:** +7
-* **Cura:** +15
-* **Furtividade:** +7
-* **Diplomacia:** +21
-* **Fortitude:** +18
-* **Iniciativa:** +17
-* **Intimidação:** +21
-* **Investigação:** +13
-* **Ladinagem:** +7
-* **Luta:** +16
-* **Percepção:** +20
-* **Reflexos:** +17
-* **Religião:** +15
-* **Vontade:** +17
+* **Acrobacia:** +8
+* **Cura:** +16
+* **Furtividade:** +8
+* **Diplomacia:** +22
+* **Fortitude:** +19
+* **Iniciativa:** +18
+* **Intimidação:** +22
+* **Investigação:** +14
+* **Ladinagem:** +8
+* **Luta:** +17
+* **Percepção:** +21
+* **Reflexos:** +18
+* **Religião:** +16
+* **Vontade:** +18
 
 ---
 
