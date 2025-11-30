@@ -67,7 +67,7 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 # 🛡️ **CLASSE DE ARMADURA**
 
-* **CA Total:** 36 (**+8**)
+* **CA Total:** 36 (**+18**)
 
 ---
 
@@ -121,7 +121,7 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 * +5 Percepção
 * Visão perfeita no escuro (inclui escuridão mágica)
 * Não pode ser flanqueado
-* Pode lançar *Visão da Verdade*
+* Pode lançar *[Visão da Verdade](https://eduardomarques.pythonanywhere.com/195/)*
 
 ---
 
@@ -201,7 +201,7 @@ Pode causar dano não letal sem penalidade
 
 1 PM → cura **1d8+1**
 +1 PM a cada 4 níveis → +1d8+1
-A partir do nível 6 pode remover condições
+A partir do nível 6 pode remover condições como abalado, apavorado, atordoado, cego, doente, exausto, fatigado ou surdo.
 
 ---
 
@@ -258,6 +258,7 @@ A cada 4 níveis, pode gastar +1 PM para +1d12
 
 2 PM → marca inimigo
 Se causar dano depois, CD de Vontade = **10 + metade do nível + Carisma**
+Se falhar, toma metade do dano
 
 ---
 
@@ -349,10 +350,10 @@ Ligada à Tormenta, fiel a Noah, capaz de lutar mesmo após sua morte.
 
 **Conjurações ilimitadas:**
 
-* Raio Solar
-* Augúrio
-* Coluna de Chamas
-* Sopro da Salvação
+* [Raio Solar](https://eduardomarques.pythonanywhere.com/149/) 
+* [Augúrio](https://eduardomarques.pythonanywhere.com/24/)
+* [Coluna de Chamas](https://eduardomarques.pythonanywhere.com/40/)
+* [Sopro da Salvação](https://eduardomarques.pythonanywhere.com/173/)
 
 *(Gasta PM normalmente. Pode conjurar com ação livre gastando +3 PM.)*
 
@@ -404,10 +405,10 @@ Aura 3 m
   * Cura **26 por turno**
   * +16 e vantagem em testes de resistência
 * 1 PM → Brado Assustador (inimigos vulneráveis, –2 CA)
-* 2 PM → Julgamento Divino (Justiça – CD 26)
+* 2 PM → Julgamento Divino (Justiça – CD 28)
 * 5 PM → Surto Heroico (ação extra)
 * 2 PM → Égide Sagrada
-* 15 PM → Coluna de Chamas (**21d6**, Reflexos CD 26)
+* 15 PM → Coluna de Chamas (**22d6**, Reflexos CD 28)
 
 ---
 

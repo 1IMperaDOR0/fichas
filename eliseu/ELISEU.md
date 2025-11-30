@@ -41,7 +41,7 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 **Antecedente:** Fazendeiro
 
-**Nível:** 3
+**Nível:** 4
 
 **[Classe](https://www.dandwiki.com/wiki/Healer_(5e_Class)#Renewal):** Curandeiro
 
@@ -57,11 +57,11 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 **Deslocamento:** 9 m (caminhada), 9 m (voo)
 
-**CD de Magia:** 16 (+2 para Evocação)
+**CD de Magia:** 17 (+2 para Evocação)
 
-**Ataque Mágico:** +8
+**Ataque Mágico:** +9
 
-**Pontos de Sorte:** 3 - Não adquirido
+**Pontos de Sorte:** 3
 
 **PO:** 1543
 
@@ -82,8 +82,8 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 24 (**-2**)
-* **PV Atuais:** 24
+* **PV Total:** 33 (**-2**) 
+* **PV Atuais:** 33
 
 ---
 
@@ -285,7 +285,7 @@ Cura adicional ao lançar magias (1 alvo):
 **Tipo:** Celestial (Ovelha Celestial)
 
 **CA:** 13
-**PV:** 20 (5 + 5x seu nível)
+**PV:** 25 (5 + 5x seu nível)
 **Deslocamento:** 9 m (caminhada), 22 m (voo)
 
 **Atributos:**
@@ -332,7 +332,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 * **Sobrevoo:** não provoca ataques de oportunidade
 * **Visão Aguçada:** vantagem em Percepção baseada em visão
-* **Direcionamento de dano:** 1 vez por turno, o Salus pode redirecionar dano que o Eliseu tomar
+* **Direcionamento de dano:** 1 vez por turno, o Salus pode redirecionar dano que o Eliseu tomar (mas ele não pode ser reduzido)
 
 ---
 
@@ -365,7 +365,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
     ``` 
     Nível 0 - Você aprende a magia restauração menor, e pode conjurar ela uma vez por dia sem usar espaços de magia
 
-    Nível 4 - Eu cuido de você: quando restaura vida de um aliado, a cura aumenta em 3 pontos por dadorolado
+    Nível 4 - Eu cuido de você: quando restaura vida de um aliado, a cura aumenta em 3 pontos por dado rolado
 
     Nível 8 - Você cuida de mim: quando conjurar uma magia em um aliado, você pode escolher estabelecer uma conexão magica com ele, se fizer isso, pode se comunicar telepaticamente com esse aliado, e o dano recebido por você é compartilhado com esse aliado, somente uma conexão pode existir por vez.
 
@@ -388,7 +388,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
     ```
     Você escolheu canalizar sua benção de maneira bondosa e harmônica, você aprende a magia “Curar Ferimentos” e pode usar sem gastar espaços de magia um número de vezes igual ao seu bônus de proficiência (recupera após um descanso longo), fora isso, quando conjurar uma magia que forneça cura em qualquer forma, você pode escolher conjurar a magia no maior nível que conseguir (o espaço de magia gasto ainda é o mesmo), e se fizer isso você recebe um bônus na cura igual a quantidade de dados que foram jogados.
     ```
-* **Sortudo:** 3 pontos de sorte (ataques, testes, resistência) - Não adquirido
+* **Sortudo:** 3 pontos de sorte (ataques, testes, resistência)
 * **Macarronada da Zyneia:** +2 PV permanente
 * **Robusto:** +2 PV por nível
 * **Carta XV — Demônio**
@@ -449,7 +449,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Causas: Monstros grandes espalhados
 * Consequência: Morrer é para sempre
 * Ajudante: Uma caveira mágica
-* Problema: Metaleros, Magos, Vampiros, Chapéus, Gêmeos
+* Problema: Metaleros, Magos, Vampiros (eliminados), Chapéus, Gêmeos
 * Presente: Carta de Troca
 * Carta de Presente: 1 item do seu inventário
 * Carta de Troca: 1 item do inventário inimigo
