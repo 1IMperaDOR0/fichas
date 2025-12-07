@@ -59,9 +59,9 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 **CD de Magia:** 17 (+2 para Evocação)
 
-**Ataque Mágico:** +9
+**Ataque Mágico:** +11
 
-**Pontos de Sorte:** 3
+**Pontos de Sorte:** 2/3
 
 **PO:** 1543
 
@@ -71,8 +71,8 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 | Atributo     | Valor  | Modificador |
 | ------------ | ------ | ----------- |
-| Carisma      | **21** | **+5**      |
-| Constituição | 15     | +2          |
+| Carisma      | **23** | **+6**      |
+| Constituição | **15** | **+2**      |
 | Destreza     | 15     | +2          |
 | Sabedoria    | 12     | +1          |
 | Inteligência | 12     | +1          |
@@ -89,7 +89,7 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 # 🛡️ **CLASSE DE ARMADURA**
 
-* **CA Total:** 17
+* **CA Total:** 20
 
 ---
 
@@ -111,7 +111,7 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 ### **Testes de Resistência**
 
 * Constituição (**+5**)
-* Carisma (**+8**)
+* Carisma (**+9**)
 
 ### **Perícias Escolhidas**
 
@@ -413,7 +413,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * **Lidar com Animais +4**
 * **Medicina +7***
 * Natureza +1
-* Cozinhar +13 (**+40 com Macarronada / +50 com lasanhas**)
+* Cozinhar +13 (**+40 com Macarronada / +50 com Lasanhas**)
 * **Percepção +4**
 * **Persuasão +8**
 * Prestidigitação +2

@@ -61,7 +61,7 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 # 🔵 **PONTOS DE MANA**
 
 * **PM Total:** 65
-* **PM Atuais:** 73 (**+32**)
+* **PM Atuais:** 81 (**+32**)
 
 ---
 
@@ -133,6 +133,23 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 ---
 
+### **Benção de Megalokk — O Chamado Bestial**
+
+Ação padrão + 5 PM →
++5 ataque
++5 dano
++10 redução de dano
+Sustentar: ação livre + 3 PM
+
+---
+
+### **Maldição de LinWu — O Desonrado**
+
+-5 ataque contra inimigo sem status negativo
++5 para resistirem às suas magias
+
+---
+
 ### **Anel de Proteção**
 
 +2 Defesa
@@ -148,6 +165,12 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 ### **Aura Antimagia**
 
 Aliados dentro da aura podem **rolar novamente** testes de resistência contra magia
+
+---
+
+### **Aura Amaldiçoada**
+
+Você consegue ver a porcentagem que a sua maldição afeta alguem.
 
 ---
 
@@ -308,23 +331,6 @@ Ação completa → ganha PM temporários = Carisma
 
 ---
 
-### **Benção de Megalokk — O Chamado Bestial**
-
-Ação padrão + 5 PM →
-+5 ataque
-+5 dano
-+10 redução de dano
-Sustentar: ação livre + 3 PM
-
----
-
-### **Maldição de LinWu — O Desonrado**
-
--5 ataque contra inimigo sem status negativo
-+5 para resistirem às suas magias
-
----
-
 # 🔥 **ALIADOS**
 
 ---
@@ -373,24 +379,33 @@ Aura 3 m
 
 ---
 
+## **Muck — Magivocador (Veterano)**
+
+![Muck](src/assets/images/Muck.png)
+
+* +1 Dado do mesmo tipo da magia
+* +1 na CD para resistir
+
+---
+
 # 🧠 **PERÍCIAS**
 
 (atributo + treinamento + metade do nível + bônus extras)
 
-* **Acrobacia:** +8
-* **Cura:** +16
-* **Furtividade:** +8
-* **Diplomacia:** +22
-* **Fortitude:** +19
-* **Iniciativa:** +18
-* **Intimidação:** +22
-* **Investigação:** +14
-* **Ladinagem:** +8
-* **Luta:** +17
-* **Percepção:** +21
-* **Reflexos:** +18
-* **Religião:** +16
-* **Vontade:** +18
+* **Acrobacia (Des):** +8
+* **Cura (Sab):** +16
+* **Furtividade (Des):** +8
+* **Diplomacia (Car):** +22
+* **Fortitude (Con):** +19
+* **Iniciativa (Des):** +18
+* **Intimidação (Car):** +22
+* **Investigação (Int):** +14
+* **Ladinagem (Des):** +8
+* **Luta (For):** +17
+* **Percepção (Sab):** +21
+* **Reflexos (Des):** +18
+* **Religião (Sab):** +16
+* **Vontade (Sab):** +18
 
 ---
 
@@ -458,5 +473,11 @@ Aura 3 m
 ---
 
 # 📝 **ANOTAÇÕES**
+
+**Evento do Noah (Convite da festa do Farsante):**
+* Descobrir como atrapalhar/impedir o ritual
+* Matar a criatura acaba com a maldição e salva todos dela
+* Noah é a chave
+* Como o olho de Szzaas é necessário pro ritual?
 
 ---
