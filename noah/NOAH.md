@@ -2,7 +2,7 @@
 
 ![Noah Omar](src/assets/images/Noah%20Omar.jpg)
 
-### Humano • Paladino • Origem: Soldado • 27 anos • 1,80 m
+### Humano • Paladino • Soldado • 27 anos • 1,80 m
 
 ---
 
@@ -26,7 +26,7 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 **Raça:** Humano
 
-**Nível:** 16 (precisa upar)
+**Nível:** 16
 
 **Classe:** Paladino
 
