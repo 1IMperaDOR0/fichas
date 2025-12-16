@@ -67,7 +67,7 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 # 🛡️ **CLASSE DE ARMADURA**
 
-* **CA Total:** 36 (**+18**)
+* **CA Total:** 33 (**+18**)
 
 ---
 
@@ -301,14 +301,10 @@ Se falhar, toma metade do dano
 
 Habilidades que tenham um aliado como alvo é reduzido em 1 PM
 
----
-
 ### **Virtude Paladinesca – Compaixão**
 
 *Cura pelas Mãos* em alcance curto:
 Para cada PM → cura **2d6+1**
-
----
 
 ### **Virtude Paladinesca – Humildade**
 

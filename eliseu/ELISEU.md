@@ -57,7 +57,7 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 **Deslocamento:** 9 m (caminhada), 9 m (voo)
 
-**CD de Magia:** 17 (+2 para Evocação)
+**CD de Magia:** 18 (+2 para Evocação)
 
 **Ataque Mágico:** +11
 
@@ -338,21 +338,27 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 # 🔮 **COMBO DE COMBATE**
 
+### **Antes**
+
+* Usar *Ajuda* (+11 de vida máxima)
+
 ### **Início**
 
 * Ativar Aura
-* Invocar Companheiro (6 de vida em um raio de 6 m)
+* Abençoar Aurélia, Matteo e Orianna
+* Invocar Companheiro (7 de vida em um raio de 6 m)
 * Familiar analisa ambiente
 * Mover para ponto estratégico
 
 ### **Rotação Fixa**
 
-* Pode usar *Curar Ferimentos* 3x sem gastar espaço
 * As curas são no maior nível que eu posso conjurar
 * A cura é máximizada e soma +1
-* Teleportar Companheiro (3 de vida temporária)
+* Pode usar *Curar Ferimentos* 3x sem gastar espaço (38 de cura + 6 no próximo ataque e teste de resistência)
+* Teleportar Companheiro (7 de vida temporária)
 * Usar a pool para curar alguém
-* Familiar analisa ambiente
+* Usar *Santuário* em alguém
+* Usar reação caso tome dano para transferi-lo para um aliado
 * Mover-se estrategicamente
 
 ---
@@ -403,15 +409,15 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Acrobacia +2
 * **Arcanismo +4** (soma o nível para descobrir a magia)
 * Atletismo +0
-* Atuação +5
-* Enganação +2
+* Atuação +7
+* Enganação +7
 * **Furtividade +5**
 * **História +3 (+5 sobre Deuses)**
 * Intimidação +5
 * **Intuição +4**
-* **Investigação +4**
+* **Investigação +7 (Expertise)**
 * **Lidar com Animais +4**
-* **Medicina +7***
+* **Medicina +7 (Expertise)**
 * Natureza +1
 * Cozinhar +13 (**+40 com Macarronada / +50 com Lasanhas**)
 * **Percepção +4**
