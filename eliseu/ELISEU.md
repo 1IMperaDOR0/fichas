@@ -41,7 +41,7 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 **Antecedente:** Fazendeiro
 
-**Nível:** 4
+**Nível:** 5
 
 **[Classe](https://www.dandwiki.com/wiki/Healer_(5e_Class)#Renewal):** Curandeiro
 
@@ -57,11 +57,11 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 **Deslocamento:** 9 m (caminhada), 9 m (voo)
 
-**CD de Magia:** 18 (+2 para Evocação)
+**CD de Magia:** 20 (+2 para Evocação)
 
 **Ataque Mágico:** +11
 
-**Pontos de Sorte:** 2/3
+**Pontos de Sorte:** 3/3
 
 **PO:** 1543
 
@@ -76,14 +76,14 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 | Destreza     | 15     | +2          |
 | Sabedoria    | 12     | +1          |
 | Inteligência | 12     | +1          |
-| Força        | 10     | +0          |
+| Força        | 9      | -1          |
 
 ---
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 33 (**-2**) 
-* **PV Atuais:** 33
+* **PV Total:** 42 (**-2**) 
+* **PV Atuais:** 42
 
 ---
 
@@ -355,7 +355,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * As curas são no maior nível que eu posso conjurar
 * A cura é máximizada e soma +1
 * Pode usar *Curar Ferimentos* 3x sem gastar espaço (38 de cura + 6 no próximo ataque e teste de resistência)
-* Teleportar Companheiro (7 de vida temporária)
+* Teleportar Companheiro (6 de vida temporária)
 * Usar a pool para curar alguém
 * Usar *Santuário* em alguém
 * Usar reação caso tome dano para transferi-lo para um aliado
@@ -367,7 +367,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 * Visão no Escuro (até 18 m)
 * **Semblante da Esperança:** cura 1d6 + mod Carisma em uma área de 6 m (1x por descanso longo)
-* **Fluxo Cuidadoso:** progressão de habilidades de cura (nível 8)
+* **Fluxo Cuidadoso:** progressão de habilidades de cura (nível 9)
     ``` 
     Nível 0 - Você aprende a magia restauração menor, e pode conjurar ela uma vez por dia sem usar espaços de magia
 

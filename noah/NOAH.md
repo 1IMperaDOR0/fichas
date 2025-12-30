@@ -54,14 +54,14 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 # ❤️ **PONTOS DE VIDA**
 
 * **PV Total:** 169
-* **PV Atuais:** 215 (**+64**)
+* **PV Atuais:** 169 (**+64**)
 
 ---
 
 # 🔵 **PONTOS DE MANA**
 
 * **PM Total:** 65
-* **PM Atuais:** 81 (**+32**)
+* **PM Atuais:** 49 (**+32**)
 
 ---
 
