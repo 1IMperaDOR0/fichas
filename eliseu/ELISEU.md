@@ -63,7 +63,7 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 **Pontos de Sorte:** 3/3
 
-**PO:** 1543
+**PO:** 1607
 
 ---
 
@@ -344,7 +344,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 ### **Início**
 
-* Ativar Aura
+* Ativar Aura (6 de vida temporária + 6 no próximo ataque e teste de resistência)
 * Abençoar Aurélia, Matteo e Orianna
 * Invocar Companheiro (7 de vida em um raio de 6 m)
 * Familiar analisa ambiente
@@ -354,10 +354,10 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 * As curas são no maior nível que eu posso conjurar
 * A cura é máximizada e soma +1
-* Pode usar *Curar Ferimentos* 3x sem gastar espaço (38 de cura + 6 no próximo ataque e teste de resistência)
-* Teleportar Companheiro (6 de vida temporária)
-* Usar a pool para curar alguém
-* Usar *Santuário* em alguém
+* Pode usar *Curar Ferimentos* 3x sem gastar espaço (54 de cura + 6 no próximo ataque e teste de resistência)
+* Teleportar Companheiro (6 de vida temporária + 6 no próximo ataque e teste de resistência)
+* Usar a pool para curar alguém (6 no próximo ataque e teste de resistência)
+* Usar *Santuário* em alguém (6 no próximo ataque e teste de resistência)
 * Usar reação caso tome dano para transferi-lo para um aliado
 * Mover-se estrategicamente
 
@@ -431,7 +431,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 # 🎒 **INVENTÁRIO**
 
 * Símbolo Sagrado
-* Fama (nível 1)
+* Fama (nível -2)
 * Marca da Adaga com um Olho
 * Carta XV (Demônio)
 * Chamado do Topázio
@@ -444,6 +444,8 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Kit de Curandeiro
 * Funda
 * 30 Pedras
+* Ashen
+* Remur
 * Mydemius/Myday
 
 ---
@@ -466,5 +468,8 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Bebida: Recupera o espaço de magia mais alto
 * Recuperado: Carta do Diabo
 * Recuperado: Escudo (símbolo sagrado)
+
+**Evento Ashen**
+* Colegas: Aixa, Ariarali, Eliseu
 
 ---

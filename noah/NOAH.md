@@ -61,7 +61,7 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 # 🔵 **PONTOS DE MANA**
 
 * **PM Total:** 65
-* **PM Atuais:** 49 (**+32**)
+* **PM Atuais:** 65 (**+32**)
 
 ---
 
@@ -419,7 +419,7 @@ Aura 3 m
 * 2 PM → Julgamento Divino (Justiça – CD 28)
 * 5 PM → Surto Heroico (ação extra)
 * 2 PM → Égide Sagrada
-* 15 PM → Coluna de Chamas (**22d6**, Reflexos CD 28)
+* 15 PM → Coluna de Chamas (23d6, Reflexos CD 28)
 
 ---
 
@@ -430,7 +430,7 @@ Aura 3 m
 * 1 PM → Consagrar área
 * 5 PM → Surto Heroico
 * 5 PM → Cura pelas Mãos (10d6 cura) ou remover condição (1 PM)
-* 15 PM → Coluna de Chamas (21d6)
+* 15 PM → Coluna de Chamas (23d6, Reflexos CD 28)
 
 ---
 
@@ -441,7 +441,7 @@ Aura 3 m
 * Preparar ações de cura
 * 5 PM → Surto Heroico
 * 5 PM → +5 ataque e dano; RD 10
-* **Baforada da Fênix:** 12d6 + 12 (CD 26)
+* **Baforada da Fênix:** 12d6 + 12 
 
 ---
 
@@ -451,7 +451,7 @@ Aura 3 m
 * 1 PM → sustentar aura
 * 3 PM → sustentar Megalokk
 * Preparar cura
-* **Baforada da Fênix** (12d6 + 12)
+* **Baforada da Fênix**: 12d6 + 12
 
 ---
 
@@ -461,10 +461,10 @@ Aura 3 m
 * 1 PM → sustentar aura
 * 3 PM → sustentar Megalokk
 * Preparar cura
-* 14 PM → Sopro da Salvação
+* 16 PM → Sopro da Salvação
 
   * Cone 9 m
-  * **4d8 + 6** e levanta aliados do 0
+  * **6d8 + 8** e levanta aliados do 0
 
 ---
 
