@@ -53,8 +53,8 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 169
-* **PV Atuais:** 169 (**+64**)
+* **PV Total:** 199
+* **PV Atuais:** 199 (**+64**)
 
 ---
 
@@ -67,7 +67,7 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 # 🛡️ **CLASSE DE ARMADURA**
 
-* **CA Total:** 33 (**+18**)
+* **CA Total:** 33 (**+16**)
 
 ---
 
