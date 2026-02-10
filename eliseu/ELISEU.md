@@ -82,8 +82,8 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 42 (**-2**) 
-* **PV Atuais:** 42
+* **PV Total:** 39 (**-5**) 
+* **PV Atuais:** 39
 
 ---
 
@@ -367,7 +367,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 * Visão no Escuro (até 18 m)
 * **Semblante da Esperança:** cura 1d6 + mod Carisma em uma área de 6 m (1x por descanso longo)
-* **Fluxo Cuidadoso:** progressão de habilidades de cura (nível 9)
+* **Fluxo Cuidadoso:** progressão de habilidades de cura (nível 10)
     ``` 
     Nível 0 - Você aprende a magia restauração menor, e pode conjurar ela uma vez por dia sem usar espaços de magia
 
@@ -397,7 +397,10 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * **Sortudo:** 3 pontos de sorte (ataques, testes, resistência)
 * **Macarronada da Zyneia:** +2 PV permanente
 * **Robusto:** +2 PV por nível
-* **Carta XV — Demônio**
+* **Carta XV — Demônio** (nível 2 - tem um detalhe de uma linha dourada)
+    ```
+    O Diabo significa desejo/dependência ou tudo de ruim no mundo
+    ```
     ```
     Qualquer efeito que o Eliseu causar em um aliado, ele recebe o valor de proficiência no seu dano e recebe isso de dano. Além disso, esse dano causado nele, pode ser usado para somar em qualquer teste, depois de usado ele acaba (não é acumulativo).
     ```
@@ -444,8 +447,6 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Kit de Curandeiro
 * Funda
 * 30 Pedras
-* Ashen
-* Remur
 * Mydemius/Myday
 
 ---
@@ -468,6 +469,10 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Bebida: Recupera o espaço de magia mais alto
 * Recuperado: Carta do Diabo
 * Recuperado: Escudo (símbolo sagrado)
+
+**Evento Caçada**
+* Selamos o pilar do tempo
+* O Diabo está ligado ao pilar do tempo
 
 **Evento Ashen**
 * Colegas: Aixa, Ariarali, Eliseu
