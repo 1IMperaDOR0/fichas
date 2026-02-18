@@ -63,7 +63,7 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 **Pontos de Sorte:** 3/3
 
-**PO:** 1607
+**PO:** 597
 
 ---
 
@@ -82,8 +82,8 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 39 (**-5**) 
-* **PV Atuais:** 39
+* **PV Total:** 44 (**-5**) 
+* **PV Atuais:** 44
 
 ---
 
@@ -397,6 +397,9 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * **Sortudo:** 3 pontos de sorte (ataques, testes, resistência)
 * **Macarronada da Zyneia:** +2 PV permanente
 * **Robusto:** +2 PV por nível
+* **Mascara de Ovelha:** Depois de 3 dias, revela o objetivo/poderes que o seu criador tinha a respeito de seu espírito
+    ```
+    ```
 * **Carta XV — Demônio** (nível 2 - tem um detalhe de uma linha dourada)
     ```
     O Diabo significa desejo/dependência ou tudo de ruim no mundo
@@ -437,6 +440,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Fama (nível -2)
 * Marca da Adaga com um Olho
 * Carta XV (Demônio)
+* Mascara de Ovelha
 * Chamado do Topázio
 * Chave do Quarto (nº 238)
 * Armadura de Couro Batido (CA 12 + DES)
