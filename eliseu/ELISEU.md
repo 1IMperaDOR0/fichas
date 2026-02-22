@@ -333,6 +333,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * **Sobrevoo:** não provoca ataques de oportunidade
 * **Visão Aguçada:** vantagem em Percepção baseada em visão
 * **Direcionamento de dano:** 1 vez por turno, o Salus pode redirecionar dano que o Eliseu tomar (mas ele não pode ser reduzido)
+* **Tradução:** 1x por dia, Salus pode traduzir 1 coisa, como uma página (frente e verso)
 
 ---
 
