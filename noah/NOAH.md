@@ -60,8 +60,8 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 # 🔵 **PONTOS DE MANA**
 
-* **PM Total:** 65
-* **PM Atuais:** 65 (**+32**)
+* **PM Total:** 88
+* **PM Atuais:** 88 (**+32**)
 
 ---
 
