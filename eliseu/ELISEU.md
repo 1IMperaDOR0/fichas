@@ -435,9 +435,9 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 ### **Rotação Fixa**
 
-* *Curar Ferimentos* 3x sem gastar espaço (54 de cura + 6 no próximo ataque e teste de resistência)
-* *Palavra Curativa* (30 de cura + 6 no próximo ataque e teste de resistência)
-* *Palavra Curativa em Massa* (14 de cura + 6 no próximo ataque e teste de resistência)
+* *Curar Ferimentos* 3x sem gastar espaço (55 de cura + 6 no próximo ataque e teste de resistência)
+* *Palavra Curativa* (31 de cura + 6 no próximo ataque e teste de resistência)
+* *Palavra Curativa em Massa* (15 de cura + 6 no próximo ataque e teste de resistência)
 * Teleportar Companheiro (6 de vida temporária + 6 no próximo ataque e teste de resistência)
 * *Pool* para curar alguém (6 no próximo ataque e teste de resistência)
 * *Santuário* em alguém (6 de dano + 6 no próximo ataque e teste de resistência)
