@@ -26,7 +26,7 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 **Raça:** Humano
 
-**Nível:** 16
+**Nível:** 17
 
 **Classe:** Paladino
 

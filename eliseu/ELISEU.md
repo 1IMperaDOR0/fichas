@@ -252,29 +252,50 @@ Cura adicional ao lançar magias (1 alvo):
 
 ---
 
-# 📜 **MAGIAS**
+# ⭐ **TALENTOS E HABILIDADES ADICIONAIS**
 
-### **Truques**
+* Visão no Escuro (até 18 m)
+* **Semblante da Esperança:** cura 1d6 + mod Carisma em uma área de 6 m (1x por descanso longo)
+* **Fluxo Cuidadoso:** progressão de habilidades de cura (nível 10)
+    ``` 
+    Nível 0 - Você aprende a magia restauração menor, e pode conjurar ela uma vez por dia sem usar espaços de magia
 
-* Consertar
-* Estabilizar
-* Orientação
-* Resistência
-* Raio de Gelo
-* Toque Arrepiante
+    Nível 4 - Eu cuido de você: quando restaura vida de um aliado, a cura aumenta em 3 pontos por dado rolado
 
-### **1º Nível**
+    Nível 8 - Você cuida de mim: quando conjurar uma magia em um aliado, você pode escolher estabelecer uma conexão magica com ele, se fizer isso, pode se comunicar telepaticamente com esse aliado, e o dano recebido por você é compartilhado com esse aliado, somente uma conexão pode existir por vez.
 
-* Encontrar Familiar (Salus)
-* Comando
-* Curar Ferimentos
-* Detectar Magia
-* Raio Guiador
-* Santuário
+    Nível 12 - Nós cuidamos deles: quando conjurar uma magia em um aliado, você e ele realizam uma ação de movimento imediatamente
 
-### **2º Nível**
+    Nível 16 - Com o poder da amizade: No momento que um aliado cair no estado morrendo, você pode usar uma reação e 25 pontos de vida para curar 10 de vida desse aliado, essa habilidade ativa "nós cuidamos deles"
 
-* Restauração Menor
+    Nível 20 - Somos imparáveis: Com uma ação completa, você pode estabelecer uma conexão magica com todos os aliados, unindo os pontos de vida de todos em um só, efeitos de cura nesse estado são dobrados
+    ```
+* **Pastor de Ovelhas:** aura protetiva; cura reduzida em si mesmo
+    ```
+    Você se sente responsável por aliados próximos a você, assim como um pastor de ovelhas com o seu rebanho. Com uma ação e um espaço de magia nível 1, você pode ativar uma aura de 3 metros que concede os seguintes benefícios: sempre que um aliado precisar realizar um teste de resistência, ele ganha um bônus no teste igual ao seu modificador de Carisma, eles ganham vida temporária igual o seu valor de Carisma e não provocam ataques de oportunidade enquanto estiverem no alcance. Porém você se importa muito com seus aliados que acaba se esquecendo de se concentrar em você. Efeitos de cura tem metade de eficiência em você. Com um espaço de magia nível 2 o alcance aumenta para 9 metros e com um nível 3 aumenta para 27 metros.
+    ```
+* **Estudioso:** as suas curas aumentam +1
+* **Benção de Aurea (Luz e Cura):** a sua cura é máx e seu dano é mín
+    ```
+    O Eliseu também pode conjurar magias de cura em sua forma verdadeira... se ele treinar o suficiente.
+    ```
+* **Protetor:** cura gratuita e pode maximizar nível da magia
+    ```
+    Você escolheu canalizar sua benção de maneira bondosa e harmônica, você aprende a magia “Curar Ferimentos” e pode usar sem gastar espaços de magia um número de vezes igual ao seu bônus de proficiência (recupera após um descanso longo), fora isso, quando conjurar uma magia que forneça cura em qualquer forma, você pode escolher conjurar a magia no maior nível que conseguir (o espaço de magia gasto ainda é o mesmo), e se fizer isso você recebe um bônus na cura igual a quantidade de dados que foram jogados.
+    ```
+* **Sortudo:** 3 pontos de sorte (ataques, testes, resistência)
+* **Macarronada da Zyneia:** +2 PV permanente
+* **Robusto:** +2 PV por nível
+* **Mascara de Ovelha:** Depois de 3 dias, revela o objetivo/poderes que o seu criador tinha a respeito de seu espírito
+    ```
+    ```
+* **Carta XV — Demônio** (nível 2 - tem um detalhe de uma linha dourada)
+    ```
+    O Diabo significa desejo/dependência ou tudo de ruim no mundo
+    ```
+    ```
+    Qualquer efeito que o Eliseu causar em um aliado, ele recebe o valor de proficiência no seu dano e recebe isso de dano. Além disso, esse dano causado nele, pode ser usado para somar em qualquer teste, depois de usado ele acaba (não é acumulativo).
+    ```
 
 ---
 
@@ -337,77 +358,41 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 ---
 
-# 🔮 **COMBO DE COMBATE**
+# 📜 **MAGIAS**
 
-### **Antes**
+### **Truques**
 
-* Usar *Ajuda* (+11 de vida máxima)
+* Consertar
+* Estabilizar
+* Orientação
+* Resistência
+* Raio de Gelo
+* Toque Arrepiante
 
-### **Início**
+### **1º Nível**
 
-* Ativar Aura (6 de vida temporária + 6 no próximo ataque e teste de resistência)
-* Abençoar Aurélia, Matteo e Orianna
-* Invocar Companheiro (7 de vida em um raio de 6 m)
-* Familiar analisa ambiente
-* Mover para ponto estratégico
+* Encontrar Familiar (Salus)
+* Comando
+* Curar Ferimentos
+* Detectar Magia
+* Raio Guiador
+* Santuário
 
-### **Rotação Fixa**
+### **2º Nível**
 
-* As curas são no maior nível que eu posso conjurar
-* A cura é máximizada e soma +1
-* Pode usar *Curar Ferimentos* 3x sem gastar espaço (54 de cura + 6 no próximo ataque e teste de resistência)
-* Teleportar Companheiro (6 de vida temporária + 6 no próximo ataque e teste de resistência)
-* Usar a pool para curar alguém (6 no próximo ataque e teste de resistência)
-* Usar *Santuário* em alguém (6 no próximo ataque e teste de resistência)
-* Usar reação caso tome dano para transferi-lo para um aliado
-* Mover-se estrategicamente
+* Ajuda
+* Repouso Tranquilo
+* Restauração Menor
+* Vínculo Protetor
+* Zona da Verdade
 
----
+## **3º Nível**
 
-# ⭐ **TALENTOS E HABILIDADES ADICIONAIS**
-
-* Visão no Escuro (até 18 m)
-* **Semblante da Esperança:** cura 1d6 + mod Carisma em uma área de 6 m (1x por descanso longo)
-* **Fluxo Cuidadoso:** progressão de habilidades de cura (nível 10)
-    ``` 
-    Nível 0 - Você aprende a magia restauração menor, e pode conjurar ela uma vez por dia sem usar espaços de magia
-
-    Nível 4 - Eu cuido de você: quando restaura vida de um aliado, a cura aumenta em 3 pontos por dado rolado
-
-    Nível 8 - Você cuida de mim: quando conjurar uma magia em um aliado, você pode escolher estabelecer uma conexão magica com ele, se fizer isso, pode se comunicar telepaticamente com esse aliado, e o dano recebido por você é compartilhado com esse aliado, somente uma conexão pode existir por vez.
-
-    Nível 12 - Nós cuidamos deles: quando conjurar uma magia em um aliado, você e ele realizam uma ação de movimento imediatamente
-
-    Nível 16 - Com o poder da amizade: No momento que um aliado cair no estado morrendo, você pode usar uma reação e 25 pontos de vida para curar 10 de vida desse aliado, essa habilidade ativa "nós cuidamos deles"
-
-    Nível 20 - Somos imparáveis: Com uma ação completa, você pode estabelecer uma conexão magica com todos os aliados, unindo os pontos de vida de todos em um só, efeitos de cura nesse estado são dobrados
-    ```
-* **Pastor de Ovelhas:** aura protetiva; cura reduzida em si mesmo
-    ```
-    Você se sente responsável por aliados próximos a você, assim como um pastor de ovelhas com o seu rebanho. Com uma ação e um espaço de magia nível 1, você pode ativar uma aura de 3 metros que concede os seguintes benefícios: sempre que um aliado precisar realizar um teste de resistência, ele ganha um bônus no teste igual ao seu modificador de Carisma, eles ganham vida temporária igual o seu valor de Carisma e não provocam ataques de oportunidade enquanto estiverem no alcance. Porém você se importa muito com seus aliados que acaba se esquecendo de se concentrar em você. Efeitos de cura tem metade de eficiência em você. Com um espaço de magia nível 2 o alcance aumenta para 9 metros e com um nível 3 aumenta para 27 metros.
-    ```
-* **Estudioso:** as suas curas aumentam +1
-* **Benção de Aurea (Luz e Cura):** a sua cura é máx e seu dano é mín
-    ```
-    O Eliseu também pode conjurar magias de cura em sua forma verdadeira... se ele treinar o suficiente.
-    ```
-* **Protetor:** cura gratuita e pode maximizar nível da magia
-    ```
-    Você escolheu canalizar sua benção de maneira bondosa e harmônica, você aprende a magia “Curar Ferimentos” e pode usar sem gastar espaços de magia um número de vezes igual ao seu bônus de proficiência (recupera após um descanso longo), fora isso, quando conjurar uma magia que forneça cura em qualquer forma, você pode escolher conjurar a magia no maior nível que conseguir (o espaço de magia gasto ainda é o mesmo), e se fizer isso você recebe um bônus na cura igual a quantidade de dados que foram jogados.
-    ```
-* **Sortudo:** 3 pontos de sorte (ataques, testes, resistência)
-* **Macarronada da Zyneia:** +2 PV permanente
-* **Robusto:** +2 PV por nível
-* **Mascara de Ovelha:** Depois de 3 dias, revela o objetivo/poderes que o seu criador tinha a respeito de seu espírito
-    ```
-    ```
-* **Carta XV — Demônio** (nível 2 - tem um detalhe de uma linha dourada)
-    ```
-    O Diabo significa desejo/dependência ou tudo de ruim no mundo
-    ```
-    ```
-    Qualquer efeito que o Eliseu causar em um aliado, ele recebe o valor de proficiência no seu dano e recebe isso de dano. Além disso, esse dano causado nele, pode ser usado para somar em qualquer teste, depois de usado ele acaba (não é acumulativo).
-    ```
+* Contramágica
+* Criar Alimentos
+* Dissipar mágia
+* Falar com os Mortos
+* Palavra Curativa em Massa
 
 ---
 
@@ -432,6 +417,35 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Prestidigitação +2
 * **Religião +4 (+5 sobre Deuses)**
 * **Sobrevivência +4**
+
+---
+
+# 🔮 **COMBO DE COMBATE**
+
+### **Antes**
+
+* *Ajuda* (+17 de vida máxima)
+
+### **Início**
+
+* As curas são no maior nível que eu posso conjurar
+* A cura é máximizada e soma +1
+* Ativar Aura (6 de vida temporária + 6 no próximo ataque e teste de resistência)
+* Abençoar Aurélia, Matteo e Orianna (-6 de vida + 6 no próximo ataque e teste de resistência)
+* Invocar Companheiro (7 de vida em um raio de 6 m)
+* Familiar analisa ambiente
+* Mover para ponto estratégico
+
+### **Rotação Fixa**
+
+* *Curar Ferimentos* 3x sem gastar espaço (54 de cura + 6 no próximo ataque e teste de resistência)
+* *Palavra Curativa* (30 de cura + 6 no próximo ataque e teste de resistência)
+* *Palavra Curativa em Massa* (14 de cura + 6 no próximo ataque e teste de resistência)
+* Teleportar Companheiro (6 de vida temporária + 6 no próximo ataque e teste de resistência)
+* Usar a pool para curar alguém (6 de dano + 6 no próximo ataque e teste de resistência)
+* *Santuário* em alguém (6 de dano + 6 no próximo ataque e teste de resistência)
+* Usar reação caso tome dano para transferi-lo para um aliado
+* Mover-se estrategicamente
 
 ---
 
