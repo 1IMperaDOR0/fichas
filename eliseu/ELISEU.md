@@ -371,7 +371,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 ### **1º Nível**
 
-* Encontrar Familiar (Salus)
+* Convocar Familiar (Salus)
 * Comando
 * Curar Ferimentos
 * Detectar Magia
@@ -379,8 +379,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Santuário
 
 ### **2º Nível**
-
-* Ajuda
+* Augúrio
 * Repouso Tranquilo
 * Restauração Menor
 * Vínculo Protetor
@@ -388,10 +387,12 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 ## **3º Nível**
 
+* Aura de Vitalidade
 * Contramágica
 * Criar Alimentos
 * Dissipar mágia
 * Falar com os Mortos
+* Glifo de Proteção
 * Palavra Curativa em Massa
 
 ---
@@ -422,10 +423,6 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 # 🔮 **COMBO DE COMBATE**
 
-### **Antes**
-
-* *Ajuda* (+17 de vida máxima)
-
 ### **Início**
 
 * As curas são no maior nível que eu posso conjurar
@@ -442,7 +439,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * *Palavra Curativa* (30 de cura + 6 no próximo ataque e teste de resistência)
 * *Palavra Curativa em Massa* (14 de cura + 6 no próximo ataque e teste de resistência)
 * Teleportar Companheiro (6 de vida temporária + 6 no próximo ataque e teste de resistência)
-* Usar a pool para curar alguém (6 de dano + 6 no próximo ataque e teste de resistência)
+* *Pool* para curar alguém (6 no próximo ataque e teste de resistência)
 * *Santuário* em alguém (6 de dano + 6 no próximo ataque e teste de resistência)
 * Usar reação caso tome dano para transferi-lo para um aliado
 * Mover-se estrategicamente
