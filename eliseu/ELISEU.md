@@ -305,8 +305,8 @@ Cura adicional ao lançar magias (1 alvo):
 
 **Tipo:** Celestial (Ovelha Celestial)
 
-**CA:** 13
-**PV:** 25 (5 + 5x seu nível)
+**CA:** 13  
+**PV:** 25 (5 + 5x seu nível)  
 **Deslocamento:** 9 m (caminhada), 22 m (voo)
 
 **Atributos:**

@@ -53,15 +53,15 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 199
-* **PV Atuais:** 199 (**+64**)
+* **PV Total:** 183
+* **PV Atuais:** 183 (**+64**)
 
 ---
 
 # 🔵 **PONTOS DE MANA**
 
 * **PM Total:** 88
-* **PM Atuais:** 88 (**+32**)
+* **PM Atuais:** 80 (**+32**)
 
 ---
 
@@ -277,11 +277,12 @@ A cada 4 níveis, pode gastar +1 PM para +1d12
 
 2 PM → imunidade a medo +2 ataque contra o inimigo mais forte
 
-### **Julgamento Divino – Justiça**
+### **Julgamento Divino – Justiça (Melhorada)**
 
 2 PM → marca inimigo
 Se causar dano depois, CD de Vontade = **10 + metade do nível + Carisma**
 Se falhar, toma metade do dano
+Custo para manter: 2 PM/turno
 
 ---
 
@@ -310,13 +311,6 @@ Para cada PM → cura **2d6+1**
 
 Primeiro turno:
 Ação completa → ganha PM temporários = Carisma
-
----
-
-### **Vitalidade**
-
-+1 PV por nível
-+2 Fortitude
 
 ---
 
