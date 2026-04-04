@@ -36,60 +36,47 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 # 📌 **INFORMAÇÕES DO PERSONAGEM**
 
 **Nome:** Eliseu Babosa
-
 **[Raça](https://www.dandwiki.com/wiki/Minor_Angel_(5e_Race)):** Anjo Menor Puro
-
+**Tendência:** Leal e Caótico
+**Idiomas:** Comum, Celestial, Abissal
 **Antecedente:** Fazendeiro
-
-**Nível:** 5
-
+**Nível:** 6
 **[Classe](https://www.dandwiki.com/wiki/Healer_(5e_Class)#Renewal):** Curandeiro
-
 **Subclasse:** Ordem dos Cavaleiros Hospitalares
 
-**Tendência:** Leal e Caótico
-
-**Idiomas:** Comum, Celestial, Abissal
-
 **Bônus de Proficiência:** +3
-
 **Iniciativa:** +2
-
 **Deslocamento:** 9 m (caminhada), 9 m (voo)
-
 **CD de Magia:** 20 (+2 para Evocação)
-
 **Ataque Mágico:** +11
-
 **Pontos de Sorte:** 3/3
-
 **PO:** 597
 
 ---
 
 # 💠 **ATRIBUTOS**
 
-| Atributo     | Valor  | Modificador |
-| ------------ | ------ | ----------- |
-| Carisma      | **23** | **+6**      |
-| Constituição | **15** | **+2**      |
-| Destreza     | 15     | +2          |
-| Sabedoria    | 12     | +1          |
-| Inteligência | 12     | +1          |
-| Força        | 9      | -1          |
+| Atributo         | Valor  | Modificador | Salvaguarda |
+| ---------------- | ------ | ----------- | ----------- |
+| **Carisma**      | *23*   | *+6*        | *+9*        |
+| **Constituição** | *15*   | *+2*        | *+5*        |
+| Destreza         | 15     | +2          | +2          |
+| Sabedoria        | 12     | +1          | +1          |
+| Inteligência     | 12     | +1          | +1          |
+| Força            | 9      | -1          | -1          |
 
 ---
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 44 (**-5**) 
-* **PV Atuais:** 44
+* **PV Total:** 53 (**-5**) 
+* **PV Atuais:** 53
 
 ---
 
 # 🛡️ **CLASSE DE ARMADURA**
 
-* **CA Total:** 20
+* **CA Total:** 19 (**-1**)
 
 ---
 

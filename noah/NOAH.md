@@ -23,17 +23,11 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 # 📌 **INFORMAÇÕES DO PERSONAGEM**
 
 **Nome:** Noah Omar
-
 **Raça:** Humano
-
 **Nível:** 17
-
 **Classe:** Paladino
-
 **Origem:** Soldado
-
 **Idade:** 27
-
 **Altura:** 1,80 m
 
 ---
