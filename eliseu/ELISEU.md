@@ -58,25 +58,25 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 | Atributo         | Valor  | Modificador | Salvaguarda |
 | ---------------- | ------ | ----------- | ----------- |
-| **Carisma**      | *23*   | *+6*        | *+9*        |
-| **Constituição** | *15*   | *+2*        | *+5*        |
+| **Carisma**      | *23*   | *+7*        | *+10*       |
+| **Constituição** | *16*   | *+3*        | *+6*        |
 | Destreza         | 15     | +2          | +2          |
 | Sabedoria        | 12     | +1          | +1          |
-| Inteligência     | 12     | +1          | +1          |
+| Inteligência     | 11     | +1          | +1          |
 | Força            | 9      | -1          | -1          |
 
 ---
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 53 (**-5**) 
-* **PV Atuais:** 53
+* **PV Total:** 59 (**-5**) 
+* **PV Atuais:** 59
 
 ---
 
 # 🛡️ **CLASSE DE ARMADURA**
 
-* **CA Total:** 19 (**-1**)
+* **CA Total:** 20 (**-1**)
 
 ---
 
@@ -401,7 +401,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Natureza +1
 * Cozinhar +13 (**+40 com Macarronada / +50 com Lasanhas**)
 * **Percepção +4**
-* **Persuasão +8**
+* **Persuasão +10**
 * Prestidigitação +2
 * **Religião +4 (+5 sobre Deuses)**
 * **Sobrevivência +4**
