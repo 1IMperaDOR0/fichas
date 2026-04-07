@@ -62,7 +62,7 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 | **Constituição** | *16*   | *+3*        | *+6*        |
 | Destreza         | 15     | +2          | +2          |
 | Sabedoria        | 12     | +1          | +1          |
-| Inteligência     | 11     | +1          | +1          |
+| Inteligência     | 11     | +0          | +0          |
 | Força            | 9      | -1          | -1          |
 
 ---
