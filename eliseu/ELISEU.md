@@ -480,4 +480,10 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 **Evento Ashen**
 * Colegas: Aixa, Ariarali, Eliseu
 
+**Evento Plano da Verônica**
+* Rainha (mãe da Verônica): Vanessa 
+* Homem mais próximo de Deus (irmão da Verônica): Shaka
+* General (irmã da Verônica): Aijis
+* Curandeira (irmã da Verômica): Promeia
+
 ---

@@ -47,21 +47,21 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 183
-* **PV Atuais:** 183 (**+64**)
+* **PV Total:** 208
+* **PV Atuais:** 208 (**+64**)
 
 ---
 
 # 🔵 **PONTOS DE MANA**
 
 * **PM Total:** 88
-* **PM Atuais:** 80 (**+32**)
+* **PM Atuais:** 88 (**+32**)
 
 ---
 
 # 🛡️ **CLASSE DE ARMADURA**
 
-* **CA Total:** 33 (**+16**)
+* **CA Total:** 34 (**+16**)
 
 ---
 
