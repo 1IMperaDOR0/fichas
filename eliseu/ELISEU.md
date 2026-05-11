@@ -45,12 +45,12 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 **Subclasse:** Ordem dos Cavaleiros Hospitalares
 
 **Bônus de Proficiência:** +3
-**Iniciativa:** +2
+**Iniciativa:** +7
 **Deslocamento:** 9 m (caminhada), 9 m (voo)
 **CD de Magia:** 20 (+2 para Evocação)
 **Ataque Mágico:** +11
 **Pontos de Sorte:** 3/3
-**PO:** 597
+**PO:** 112
 
 ---
 
@@ -63,20 +63,20 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 | Destreza         | 15     | +2          | +2          |
 | Sabedoria        | 12     | +1          | +1          |
 | Inteligência     | 11     | +0          | +0          |
-| Força            | 9      | -1          | -1          |
+| Força            | 10     | +0          | +0          |
 
 ---
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 59 (**-5**) 
-* **PV Atuais:** 59
+* **PV Total:** 71 (**-5**) 
+* **PV Atuais:** 71
 
 ---
 
 # 🛡️ **CLASSE DE ARMADURA**
 
-* **CA Total:** 20 (**-1**)
+* **CA Total:** 20
 
 ---
 
@@ -243,6 +243,11 @@ Cura adicional ao lançar magias (1 alvo):
 
 * Visão no Escuro (até 18 m)
 * **Semblante da Esperança:** cura 1d6 + mod Carisma em uma área de 6 m (1x por descanso longo)
+* **Sortudo:** 3 pontos de sorte (ataques, testes, resistência)
+* **Macarronada da Zyneia:** +2 PV permanente
+* **Robusto:** +2 PV por nível
+* **Estudioso:** as suas curas aumentam +1
+* **Passada Inspirador:** Ganha uma inspiração épica a cada início. Em sessões específicas, é uma inspiração lendária.
 * **Fluxo Cuidadoso:** progressão de habilidades de cura (nível 10)
     ``` 
     Nível 0 - Você aprende a magia restauração menor, e pode conjurar ela uma vez por dia sem usar espaços de magia
@@ -261,7 +266,6 @@ Cura adicional ao lançar magias (1 alvo):
     ```
     Você se sente responsável por aliados próximos a você, assim como um pastor de ovelhas com o seu rebanho. Com uma ação e um espaço de magia nível 1, você pode ativar uma aura de 3 metros que concede os seguintes benefícios: sempre que um aliado precisar realizar um teste de resistência, ele ganha um bônus no teste igual ao seu modificador de Carisma, eles ganham vida temporária igual o seu valor de Carisma e não provocam ataques de oportunidade enquanto estiverem no alcance. Porém você se importa muito com seus aliados que acaba se esquecendo de se concentrar em você. Efeitos de cura tem metade de eficiência em você. Com um espaço de magia nível 2 o alcance aumenta para 9 metros e com um nível 3 aumenta para 27 metros.
     ```
-* **Estudioso:** as suas curas aumentam +1
 * **Benção de Aurea (Luz e Cura):** a sua cura é máx e seu dano é mín
     ```
     O Eliseu também pode conjurar magias de cura em sua forma verdadeira... se ele treinar o suficiente.
@@ -270,18 +274,28 @@ Cura adicional ao lançar magias (1 alvo):
     ```
     Você escolheu canalizar sua benção de maneira bondosa e harmônica, você aprende a magia “Curar Ferimentos” e pode usar sem gastar espaços de magia um número de vezes igual ao seu bônus de proficiência (recupera após um descanso longo), fora isso, quando conjurar uma magia que forneça cura em qualquer forma, você pode escolher conjurar a magia no maior nível que conseguir (o espaço de magia gasto ainda é o mesmo), e se fizer isso você recebe um bônus na cura igual a quantidade de dados que foram jogados.
     ```
-* **Sortudo:** 3 pontos de sorte (ataques, testes, resistência)
-* **Macarronada da Zyneia:** +2 PV permanente
-* **Robusto:** +2 PV por nível
-* **Mascara de Ovelha:** Depois de 3 dias, revela o objetivo/poderes que o seu criador tinha a respeito de seu espírito
+* **Mascara de Pombo:** Depois de 3 dias, revela o objetivo/poderes que o seu criador tinha a respeito de seu espírito
     ```
+    Enquanto a máscara estiver com você, os espíritos te alertam do perigo, essa máscara representa o estado da sua alma. Apenas existindo e sendo carregado pelo vento fazendo o mínimo e o necessário para sobreviver. Além disso, você ganha +5 de iniciativa.
+    ```
+* **Paciente 0 — Estilo de Luta:** (nível 4)
+    ```
+    
     ```
 * **Carta XV — Demônio** (nível 2 - tem um detalhe de uma linha dourada)
     ```
     O Diabo significa desejo/dependência ou tudo de ruim no mundo
     ```
+
+    *Contrato Corrupto:*
     ```
-    Qualquer efeito que o Eliseu causar em um aliado, ele recebe o valor de proficiência no seu dano e recebe isso de dano. Além disso, esse dano causado nele, pode ser usado para somar em qualquer teste, depois de usado ele acaba (não é acumulativo).
+    Quando você estiver corpo a corpo com algum aliado, você pode escolher tomar o dano no lugar dele sem gastar nenhuma ação.  Em casos específicos, como danos em área, permite você levar o dano no lugar do aliado, mas você só toma o dano uma vez, ao invés de duas vezes. Caso você caia ou morra, você não cai ou morre. Nisso, o mestre toma controle sobre você.
+    Obs.: O dano não pode ser redirecionado.
+    ```
+
+    *Sangue Voraz:*
+    ```
+    Você ganha o seu modificador de destreza para somar nos seus PVs por nível. Além disso, se você cair ou morrer pelo efeito de alguma habilidade da carta, ativa/melhora alguma coisa.
     ```
 
 ---
@@ -414,20 +428,20 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 * As curas são no maior nível que eu posso conjurar
 * A cura é máximizada e soma +1
-* Ativar Aura (6 de vida temporária + 6 no próximo ataque e teste de resistência)
-* Abençoar Aurélia, Matteo e Orianna (-6 de vida + 6 no próximo ataque e teste de resistência)
-* Invocar Companheiro (7 de vida em um raio de 6 m)
+* Ativar Aura (14 de vida temporária)
+* Abençoar Aurélia, Matteo e Orianna 
+* Invocar Companheiro (15 de vida em um raio de 6 m)
 * Familiar analisa ambiente
 * Mover para ponto estratégico
 
 ### **Rotação Fixa**
 
-* *Curar Ferimentos* 3x sem gastar espaço (55 de cura + 6 no próximo ataque e teste de resistência)
-* *Palavra Curativa* (31 de cura + 6 no próximo ataque e teste de resistência)
-* *Palavra Curativa em Massa* (15 de cura + 6 no próximo ataque e teste de resistência)
-* Teleportar Companheiro (6 de vida temporária + 6 no próximo ataque e teste de resistência)
-* *Pool* para curar alguém (6 no próximo ataque e teste de resistência)
-* *Santuário* em alguém (6 de dano + 6 no próximo ataque e teste de resistência)
+* *Curar Ferimentos* 3x sem gastar espaço (63 de cura)
+* *Palavra Curativa* (39 de cura)
+* *Palavra Curativa em Massa* (23 de cura)
+* Teleportar Companheiro (14 de vida temporária)
+* *Pool* para curar alguém
+* *Santuário* em alguém
 * Usar reação caso tome dano para transferi-lo para um aliado
 * Mover-se estrategicamente
 
@@ -436,12 +450,12 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 # 🎒 **INVENTÁRIO**
 
 * Símbolo Sagrado
-* Fama (nível -2)
+* Fama (nível -1)
 * Marca da Adaga com um Olho
 * Carta XV (Demônio)
 * Mascara de Ovelha
 * Chamado do Topázio
-* Chave do Quarto (nº 238)
+* Chave do Quarto (nº 821)
 * Armadura de Couro Batido (CA 12 + DES)
 * Escudo (CA +2)
 * Foice
@@ -450,6 +464,8 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Kit de Curandeiro
 * Funda
 * 30 Pedras
+* 2 diamantes (300 PO cada) 
+* Poção de regenerar membro
 * Mydemius/Myday
 
 ---
@@ -477,13 +493,16 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Selamos o pilar do tempo
 * O Diabo está ligado ao pilar do tempo
 
-**Evento Ashen**
-* Colegas: Aixa, Ariarali, Eliseu
-
 **Evento Plano da Verônica**
 * Rainha (mãe da Verônica): Vanessa 
 * Homem mais próximo de Deus (irmão da Verônica): Shaka
 * General (irmã da Verônica): Aijis
 * Curandeira (irmã da Verômica): Promeia
+
+**Evento Ashen**
+* Colegas: Aixa, Ariarali, Eliseu, Marco (Piromaniaco)
+* As aulas começam as 6
+* As aulas são em lugares abertos 
+* Conjurar magia a base do sentimento
 
 ---

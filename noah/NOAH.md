@@ -61,7 +61,7 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 # 🛡️ **CLASSE DE ARMADURA**
 
-* **CA Total:** 34 (**+16**)
+* **CA Total:** 34 (**+8**)
 
 ---
 
@@ -129,6 +129,7 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 ### **Benção de Megalokk — O Chamado Bestial**
 
+Alcance: Curto
 Ação padrão + 5 PM →
 +5 ataque
 +5 dano
@@ -463,5 +464,6 @@ Aura 3 m
 * Matar a criatura acaba com a maldição e salva todos dela
 * Noah é a chave
 * Como o olho de Szzaas é necessário pro ritual?
+* Descobrir a identiadade do farsante (impedir a morte da minha mãe)
 
 ---
