@@ -24,7 +24,7 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 **Nome:** Noah Omar
 **Raça:** Humano
-**Nível:** 17
+**Nível:** 19 (Atualizar)
 **Classe:** Paladino
 **Origem:** Soldado
 **Idade:** 27
@@ -47,15 +47,15 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 208
-* **PV Atuais:** 208 (**+64**)
+* **PV Total:** 217
+* **PV Atuais:** 217 (**+64**)
 
 ---
 
 # 🔵 **PONTOS DE MANA**
 
-* **PM Total:** 88
-* **PM Atuais:** 88 (**+32**)
+* **PM Total:** 92
+* **PM Atuais:** 92 (**+32**)
 
 ---
 
@@ -110,7 +110,7 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 # ✨ **HABILIDADES**
 
-### **Olho da Tormenta**
+### **Olho da Tormenta (Desativado - Ativado só com dissipar magia)**
 
 * +5 Percepção
 * Visão perfeita no escuro (inclui escuridão mágica)
@@ -313,6 +313,16 @@ Ação completa → ganha PM temporários = Carisma
 
 +1 PM por 2 níveis
 +2 Vontade
+
+---
+
+### **Encarnar Fênix**
+
+Quando você chegar a 0 de PV ou estiver morto, você poder ativar a habilidade. Escolha de uma a três rodadas, ao escolher, você ficará "morto" por estas quantidades de rodadas. No inicio do seu turno na rodada que este efeito terminar, o Tocha se funde a seu corpo e lhe transforma em uma versão lendária de si mesmo pela mesma quantidade de turnos que escolheu anteriormente.
+
+Enquanto neste estado, você soma sua vontade nos ataques, defesa, dano de arma, desarmado e de magia (só uma vez por conjuração), ganha + 20 de RD e por fim fica imune a condições de movimento, metabólico, medo e de metamorfose. Por toda duração da transformação, o Tocha se torna 1 com você, te dando suas habilidades, inclusive seu voo. 
+
+Quando este efeito acabar, você volta com metade dos PV, está habilidade então entra em recarga, onde ela necessita que você consuma 40 PM e uma ação padrão para que na próxima vez que cair possa usa-la novamente.
 
 ---
 

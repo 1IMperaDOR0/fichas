@@ -50,7 +50,7 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 **CD de Magia:** 20 (+2 para Evocação)
 **Ataque Mágico:** +11
 **Pontos de Sorte:** 3/3
-**PO:** 112
+**PO:** 912
 
 ---
 
@@ -280,9 +280,36 @@ Cura adicional ao lançar magias (1 alvo):
     ```
 * **Paciente 0 — Estilo de Luta:** (nível 4)
     ```
-    
+    1° Nível:
+    No inicio do seu turno, escolha um efeito aplicado por
+    você em aliado como cura, efeitos positivos ou
+    negativos, que foi aplicado por você no turno anterior,
+    esse efeito se repete em um outro alvo a sua escolha
+    (efeitos repetidos dessa maneira não ativam essa
+    habilidade).
     ```
-* **Carta XV — Demônio** (nível 2 - tem um detalhe de uma linha dourada)
+    ```
+    2° Nível:
+    Quando um efeito for duplicado por você o alvo do
+    segundo efeito explode em uma bomba miasmatica
+    envenenando todos os inimigos em 9m, que podem
+    fazer um teste de de constituição para evitar serem
+    envenenados por 1d8 de dano acumulavel.
+    ```
+    ```
+    3° Nível
+    você pode assumir a postura “Contaminação”, e se ela
+    estiver ativada, repetir um efeito faz com que todos que
+    estejam envenenados por você ressoem ativando uma
+    onda de miasma igual ao nivel anterior, porem a aréa da
+    onda é igual a 4,5 metros e o veneno aplicado é igual á
+    quantia de veneno do alvo;
+    ```
+    ```
+    4° Nível: 
+    ???
+    ```
+* **Carta XV — Demônio:** (nível 2 - tem um detalhe de uma linha dourada)
     ```
     O Diabo significa desejo/dependência ou tudo de ruim no mundo
     ```
@@ -297,7 +324,12 @@ Cura adicional ao lançar magias (1 alvo):
     ```
     Você ganha o seu modificador de destreza para somar nos seus PVs por nível. Além disso, se você cair ou morrer pelo efeito de alguma habilidade da carta, ativa/melhora alguma coisa.
     ```
+* **Ashen: Gloria Fatal:**
+    ```
+    Com os ensinamentos do maior feiticeiro vivo vocês aprenderam que magia não é sobre inteligência ou poder, mas sobre sentimentos, e de que não basta apenas ganhar, é necessário conquistar seu inimigos.
 
+    Uma vez por dia quando usar qualquer efeito que obrigue uma criatura a realizar um teste de resistência, você pode realizar isso de forma performatica e graciosa ou de maneira mais esguia que o normal. Com um teste de atuação ou enganação você pode aumentar a CD do teste de resistência em +1 para cada 5 pontos acima de 20 no no teste de atuação ou enganação, ou seja com um teste de atuação no valor de 35 a CD aumenta em +3.
+    ```
 ---
 
 # 🐑 **COMPANHEIRO CELESTIAL — BABOSA**
