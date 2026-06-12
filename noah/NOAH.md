@@ -2,7 +2,7 @@
 
 ![Noah Omar](src/assets/images/Noah%20Omar.jpg)
 
-### Humano • Paladino • Soldado • 27 anos • 1,80 m
+### Humano • Paladino • Soldado
 
 ---
 
@@ -24,7 +24,7 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 **Nome:** Noah Omar
 **Raça:** Humano
-**Nível:** 19 (Atualizar)
+**Nível:** 20
 **Classe:** Paladino
 **Origem:** Soldado
 **Idade:** 27
@@ -47,15 +47,15 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 217
-* **PV Atuais:** 217 (**+64**)
+* **PV Total:** 226
+* **PV Atuais:** 226 (**+72**)
 
 ---
 
 # 🔵 **PONTOS DE MANA**
 
-* **PM Total:** 92
-* **PM Atuais:** 92 (**+32**)
+* **PM Total:** 96
+* **PM Atuais:** 96 (**+36**)
 
 ---
 
@@ -215,6 +215,12 @@ Pode causar dano não letal sem penalidade
 
 ---
 
+### **Conselhos Salvadores**
+
+Por 2 PM você pode usar o teste de resistência de outro personagem que tem esse poder e que esteja em alcance curto.
+
+---
+
 ### **Cura pelas Mãos**
 
 1 PM → cura **1d8+1**
@@ -313,6 +319,12 @@ Ação completa → ganha PM temporários = Carisma
 
 +1 PM por 2 níveis
 +2 Vontade
+
+---
+
+###  **Vingador Sagrado**
+
+No 20º nível, você pode gastar uma ação completa e 10 PM para se cobrir de energia divina, assumindo a forma de um vingador sagrado até o fim da cena. Nesta forma, você recebe deslocamento de voo 18m, resistência a dano 20 e soma seu modificador de Carisma em seus testes de ataque e rolagens de dano corpo a corpo.
 
 ---
 
@@ -418,7 +430,7 @@ Aura 3 m
 * 2 PM → Julgamento Divino (Justiça – CD 28)
 * 5 PM → Surto Heroico (ação extra)
 * 2 PM → Égide Sagrada
-* 15 PM → Coluna de Chamas (23d6, Reflexos CD 28)
+* 15 PM → Raio Solar (27d8, Reflexos CD 28)
 
 ---
 
@@ -429,7 +441,7 @@ Aura 3 m
 * 1 PM → Consagrar área
 * 5 PM → Surto Heroico
 * 5 PM → Cura pelas Mãos (10d6 cura) ou remover condição (1 PM)
-* 15 PM → Coluna de Chamas (23d6, Reflexos CD 28)
+* 15 PM → Raio Solar (27d8, Reflexos CD 28)
 
 ---
 
@@ -451,19 +463,6 @@ Aura 3 m
 * 3 PM → sustentar Megalokk
 * Preparar cura
 * **Baforada da Fênix**: 12d6 + 12
-
----
-
-## **TURNO 5 – SALVAÇÃO EM MASSA**
-
-* Recupera 2 PM
-* 1 PM → sustentar aura
-* 3 PM → sustentar Megalokk
-* Preparar cura
-* 16 PM → Sopro da Salvação
-
-  * Cone 9 m
-  * **6d8 + 8** e levanta aliados do 0
 
 ---
 

@@ -40,7 +40,7 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 **Tendência:** Leal e Caótico
 **Idiomas:** Comum, Celestial, Abissal
 **Antecedente:** Fazendeiro
-**Nível:** 6
+**Nível:** 7
 **[Classe](https://www.dandwiki.com/wiki/Healer_(5e_Class)#Renewal):** Curandeiro
 **Subclasse:** Ordem dos Cavaleiros Hospitalares
 
@@ -69,8 +69,8 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 71 (**-5**) 
-* **PV Atuais:** 71
+* **PV Total:** 81 (**-5**) 
+* **PV Atuais:** 81
 
 ---
 
@@ -248,7 +248,7 @@ Cura adicional ao lançar magias (1 alvo):
 * **Robusto:** +2 PV por nível
 * **Estudioso:** as suas curas aumentam +1
 * **Passada Inspirador:** Ganha uma inspiração épica a cada início. Em sessões específicas, é uma inspiração lendária.
-* **Fluxo Cuidadoso:** progressão de habilidades de cura (nível 10)
+* **Fluxo Cuidadoso:** progressão de habilidades de cura (nível 11)
     ``` 
     Nível 0 - Você aprende a magia restauração menor, e pode conjurar ela uma vez por dia sem usar espaços de magia
 
@@ -278,7 +278,7 @@ Cura adicional ao lançar magias (1 alvo):
     ```
     Enquanto a máscara estiver com você, os espíritos te alertam do perigo, essa máscara representa o estado da sua alma. Apenas existindo e sendo carregado pelo vento fazendo o mínimo e o necessário para sobreviver. Além disso, você ganha +5 de iniciativa.
     ```
-* **Paciente 0 — Estilo de Luta:** (nível 4)
+* **Paciente 0 — Estilo de Luta:** (nível 3 -> 40% -> nível 4)
     ```
     1° Nível:
     No inicio do seu turno, escolha um efeito aplicado por
@@ -482,7 +482,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 # 🎒 **INVENTÁRIO**
 
 * Símbolo Sagrado
-* Fama (nível -1)
+* Fama (nível 0)
 * Marca da Adaga com um Olho
 * Carta XV (Demônio)
 * Mascara de Ovelha
@@ -532,7 +532,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Curandeira (irmã da Verômica): Promeia
 
 **Evento Ashen**
-* Colegas: Aixa, Ariarali, Eliseu, Marco (Piromaniaco)
+* Colegas: Aixa, Ariarali, Eliseu, Marco (Piromaniaco), Izzet (Pintor)
 * As aulas começam as 6
 * As aulas são em lugares abertos 
 * Conjurar magia a base do sentimento
