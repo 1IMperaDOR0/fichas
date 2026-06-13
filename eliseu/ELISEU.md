@@ -43,12 +43,12 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 * **Nível:** 7
 * **[Classe](https://www.dandwiki.com/wiki/Healer_(5e_Class)#Renewal):** Curandeiro
 * **Subclasse:** Ordem dos Cavaleiros Hospitalares
-* **Bônus de Proficiência:** +3
+* **Bônus de Proficiência:** +4
 * **Iniciativa:** +7
 * **Deslocamento:** 9 m (caminhada), 9 m (voo)
-* **CD de Magia:** 20 (+2 para Evocação)
-* **Ataque Mágico:** +13
-* **Pontos de Sorte:** 3/3
+* **CD de Magia:** 21 (+2 para Evocação)
+* **Ataque Mágico:** +14
+* **Pontos de Sorte:** 4/4
 * **PO:** 1712
 
 ---
@@ -68,8 +68,8 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 81 (**-5**) 
-* **PV Atuais:** 81
+* **PV Total:** 100 (**-5**) 
+* **PV Atuais:** 100
 
 ---
 
@@ -242,7 +242,7 @@ Cura adicional ao lançar magias (1 alvo):
 
 * *Visão no Escuro:** Alcance de 18 metros
 * **Semblante da Esperança:** cura 1d6 + mod Carisma em uma área de 6 m (1x por descanso longo)
-* **Sortudo:** 3 pontos de sorte (ataques, testes, resistência)
+* **Sortudo:** 4 pontos de sorte (ataques, testes, resistência)
 * **Macarronada da Zyneia:** +2 PV permanente
 * **Robusto:** +2 PV por nível
 * **Resiliente:** Você tem vantagem em testes de Salvaguardas Contra a Morte e com uma Ação Bônus, você pode gastar um dos seus dados de vida para se curar.
@@ -280,7 +280,7 @@ Cura adicional ao lançar magias (1 alvo):
     ```
 * **Bota do Socorro (requer 1 espaço de sintonia):**
     ```
-    1 vez por cena eu posso teleportar para um aliado que esteja morrendo e gaste imediatamente uma magia.
+    1 vez por cena eu posso teleportar para um aliado que esteja morrendo e gasto imediatamente uma magia.
     ```
 * **Paciente 0 — Estilo de Luta:** (nível 3 -> 40% -> nível 4)
     ```
@@ -297,7 +297,7 @@ Cura adicional ao lançar magias (1 alvo):
     Quando um efeito for duplicado por você o alvo do
     segundo efeito explode em uma bomba miasmatica
     envenenando todos os inimigos em 9m, que podem
-    fazer um teste de de constituição para evitar serem
+    fazer um teste de de Constituição para evitar serem
     envenenados por 1d8 de dano acumulavel.
     ```
     ```
@@ -395,45 +395,6 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 ---
 
-# 📜 **MAGIAS**
-
-### **Truques**
-
-* Consertar
-* Estabilizar
-* Orientação
-* Resistência
-* Raio de Gelo
-* Toque Arrepiante
-
-### **1º Nível**
-
-* Convocar Familiar (Salus)
-* Comando
-* Curar Ferimentos
-* Detectar Magia
-* Raio Guiador
-* Santuário
-
-### **2º Nível**
-* Augúrio
-* Repouso Tranquilo
-* Restauração Menor
-* Vínculo Protetor
-* Zona da Verdade
-
-## **3º Nível**
-
-* Aura de Vitalidade
-* Contramágica
-* Criar Alimentos
-* Dissipar mágia
-* Falar com os Mortos
-* Glifo de Proteção
-* Palavra Curativa em Massa
-
----
-
 # 🧠 **PERÍCIAS**
 
 * Acrobacia +2
@@ -464,21 +425,28 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 * As curas são no maior nível que eu posso conjurar
 * A cura é máximizada e soma +1
-* Ativar Aura (14 de vida temporária)
-* Abençoar Aurélia, Matteo e Orianna 
-* Invocar Companheiro (15 de vida em um raio de 6 m)
-* Familiar analisa ambiente
+* A cura aumenta em 3 por dado
+* Usar deslocamento para ativar estilo de luta
+* Efeitos que eu causar em aliados, pode ter mais um alvo
+* Explosão de veneno (envenenar) em um raio de 9 metros do alvo a mais (teste de Constituição | 1d8 acumulável)
+* Explosão de miasma (envenenar) em um raio de 4,5 metros do alvo contaminado (teste de Constituição | o tanto de d8s do contaminado)
+* Ativar Aura (+14 de vida temporária)
+* Abençoar todo mundo
+* Invocar Companheiro (+15 de vida em um raio de 6 m)
+* Companheiro usar alguma magia
+* Familiar refletir dano para Murlocks
 * Mover para ponto estratégico
 
 ### **Rotação Fixa**
 
-* *Curar Ferimentos* 3x sem gastar espaço (63 de cura)
-* *Palavra Curativa* (39 de cura)
-* *Palavra Curativa em Massa* (23 de cura)
-* Teleportar Companheiro (14 de vida temporária)
-* *Pool* para curar alguém
-* *Santuário* em alguém
-* Usar reação caso tome dano para transferi-lo para um aliado
+* *Curar Ferimentos* 3x sem gastar espaço (+103 de cura cada)
+* *Palavra Curativa* (+71 de cura)
+* *Palavra Curativa em Massa* (+36 de cura)
+* *Aura de Vitalidade* (+26 de cura durante 1 minuto, exije Concentração) 
+* Teleportar Companheiro (+14 de vida temporária)
+* *Pool* para curar alguém (35 de cura na reserva)
+* *Proteção Contra a Morte* em alguém (o alvo volta com 1 de vida ou se receber um efeito que o mate sem causar dano, o efeito é negado)
+* Familiar refletir dano para Murlocks
 * Mover-se estrategicamente
 
 ---
