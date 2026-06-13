@@ -22,13 +22,13 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 # 📌 **INFORMAÇÕES DO PERSONAGEM**
 
-**Nome:** Noah Omar
-**Raça:** Humano
-**Nível:** 20
-**Classe:** Paladino
-**Origem:** Soldado
-**Idade:** 27
-**Altura:** 1,80 m
+* **Nome:** Noah Omar
+* **Raça:** Humano
+* **Nível:** 28
+* **Classe:** Paladino
+* **Origem:** Soldado
+* **Idade:** 27
+* **Altura:** 1,80 m
 
 ---
 
@@ -386,7 +386,7 @@ Aura 3 m
 
 ---
 
-## **Muck — Magivocador (Veterano)**
+## **Muck Mutt — Magivocador (Veterano)**
 
 ![Muck](src/assets/images/Muck.png)
 

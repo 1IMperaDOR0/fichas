@@ -35,22 +35,21 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 # 📌 **INFORMAÇÕES DO PERSONAGEM**
 
-**Nome:** Eliseu Babosa
-**[Raça](https://www.dandwiki.com/wiki/Minor_Angel_(5e_Race)):** Anjo Menor Puro
-**Tendência:** Leal e Caótico
-**Idiomas:** Comum, Celestial, Abissal
-**Antecedente:** Fazendeiro
-**Nível:** 7
-**[Classe](https://www.dandwiki.com/wiki/Healer_(5e_Class)#Renewal):** Curandeiro
-**Subclasse:** Ordem dos Cavaleiros Hospitalares
-
-**Bônus de Proficiência:** +3
-**Iniciativa:** +7
-**Deslocamento:** 9 m (caminhada), 9 m (voo)
-**CD de Magia:** 20 (+2 para Evocação)
-**Ataque Mágico:** +11
-**Pontos de Sorte:** 3/3
-**PO:** 912
+* **Nome:** Eliseu Babosa
+* **[Raça](https://www.dandwiki.com/wiki/Minor_Angel_(5e_Race)):** Anjo Menor Puro
+* **Tendência:** Leal e Caótico
+* **Idiomas:** Comum, Celestial, Abissal
+* **Antecedente:** Fazendeiro
+* **Nível:** 7
+* **[Classe](https://www.dandwiki.com/wiki/Healer_(5e_Class)#Renewal):** Curandeiro
+* **Subclasse:** Ordem dos Cavaleiros Hospitalares
+* **Bônus de Proficiência:** +3
+* **Iniciativa:** +7
+* **Deslocamento:** 9 m (caminhada), 9 m (voo)
+* **CD de Magia:** 20 (+2 para Evocação)
+* **Ataque Mágico:** +13
+* **Pontos de Sorte:** 3/3
+* **PO:** 1712
 
 ---
 
@@ -76,7 +75,7 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 # 🛡️ **CLASSE DE ARMADURA**
 
-* **CA Total:** 20
+* **CA Total:** 22
 
 ---
 
@@ -241,11 +240,12 @@ Cura adicional ao lançar magias (1 alvo):
 
 # ⭐ **TALENTOS E HABILIDADES ADICIONAIS**
 
-* Visão no Escuro (até 18 m)
+* *Visão no Escuro:** Alcance de 18 metros
 * **Semblante da Esperança:** cura 1d6 + mod Carisma em uma área de 6 m (1x por descanso longo)
 * **Sortudo:** 3 pontos de sorte (ataques, testes, resistência)
 * **Macarronada da Zyneia:** +2 PV permanente
 * **Robusto:** +2 PV por nível
+* **Resiliente:** Você tem vantagem em testes de Salvaguardas Contra a Morte e com uma Ação Bônus, você pode gastar um dos seus dados de vida para se curar.
 * **Estudioso:** as suas curas aumentam +1
 * **Passada Inspirador:** Ganha uma inspiração épica a cada início. Em sessões específicas, é uma inspiração lendária.
 * **Fluxo Cuidadoso:** progressão de habilidades de cura (nível 11)
@@ -278,6 +278,10 @@ Cura adicional ao lançar magias (1 alvo):
     ```
     Enquanto a máscara estiver com você, os espíritos te alertam do perigo, essa máscara representa o estado da sua alma. Apenas existindo e sendo carregado pelo vento fazendo o mínimo e o necessário para sobreviver. Além disso, você ganha +5 de iniciativa.
     ```
+* **Bota do Socorro (requer 1 espaço de sintonia):**
+    ```
+    1 vez por cena eu posso teleportar para um aliado que esteja morrendo e gaste imediatamente uma magia.
+    ```
 * **Paciente 0 — Estilo de Luta:** (nível 3 -> 40% -> nível 4)
     ```
     1° Nível:
@@ -298,7 +302,7 @@ Cura adicional ao lançar magias (1 alvo):
     ```
     ```
     3° Nível
-    você pode assumir a postura “Contaminação”, e se ela
+    Você pode assumir a postura “Contaminação”, e se ela
     estiver ativada, repetir um efeito faz com que todos que
     estejam envenenados por você ressoem ativando uma
     onda de miasma igual ao nivel anterior, porem a aréa da
@@ -496,7 +500,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Kit de Curandeiro
 * Funda
 * 30 Pedras
-* 2 diamantes (300 PO cada) 
+* 5 diamantes (300 PO cada) 
 * Poção de regenerar membro
 * Mydemius/Myday
 
