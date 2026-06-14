@@ -456,7 +456,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 # 🎒 **INVENTÁRIO**
 
 * Símbolo Sagrado
-* Fama (nível 0)
+* Fama (nível -7)
 * Marca da Adaga com um Olho
 * Carta XV (Demônio)
 * Mascara de Ovelha
