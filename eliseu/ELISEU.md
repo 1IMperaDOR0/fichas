@@ -397,25 +397,27 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 # 🧠 **PERÍCIAS**
 
-* Acrobacia +2
-* **Arcanismo +4** (soma o nível para descobrir a magia)
-* Atletismo +0
-* Atuação +7
-* Enganação +7
-* **Furtividade +5**
-* **História +3 (+5 sobre Deuses)**
-* Intimidação +5
-* **Intuição +4**
-* **Investigação +7 (Expertise)**
-* **Lidar com Animais +4**
-* **Medicina +7 (Expertise)**
-* Natureza +1
-* Cozinhar +13 (**+40 com Macarronada / +50 com Lasanhas**)
-* **Percepção +4**
-* **Persuasão +10**
-* Prestidigitação +2
-* **Religião +4 (+5 sobre Deuses)**
-* **Sobrevivência +4**
+| Teste                 | Atributo       | Valor | Bônus | Total                                        |
+| --------------------- | -------------- | ----- | ----- | -------------------------------------------- |
+| Acrobacia             | Força          | +0    | +0    | +0                                           |
+| **Arcanismo**         | *Inteligência* | *+0*  | *+4*  | *+4* (soma o nível para descobrir a magia)   |
+| Atletismo             | Força          | +0    | +0    | +0                                           |
+| Atuação               | Carisma        | +7    | +0    | +7                                           |
+| Cozinhar              |                | +13   | +0    | +13 (+40 com Macarronada / +50 com Lasanhas) |
+| Enganação             | Carisma        | +7    | +0    | +7                                           |
+| Furtividade           | Destreza       | +2    | +0    | +2                                           |
+| **História**          | *Inteligência* | *+0*  | *+4*  | *+4*  (+5 sobre deuses)                      |
+| Intimidação           | Carisma        | +7    | +0    | +7                                           |
+| Intuição              | Sabedoria      | +1    | +0    | +1                                           |
+| **Investigação**      | *Inteligência* | *+0*  | *+4*  | *+4*                                         |
+| **Lidar com Animais** | Sabedoria      | +1    | +0    | +2                                           |
+| **Medicina**          | *Sabedoria*    | *+1*  | *+4*  | +5                                           |
+| Natureza              | Inteligência   | +0    | +0    | +2                                           |
+| **Percepção**         | *Sabedoria*    | *+1*  | *+2*  | *+4*                                         |
+| **Persuação**         | *Carisma*      | *+7*  | *+4*  | *+11*                                        |
+| Prestidigitação       | Destreza       | +2    | +2    | +2                                           |
+| **Religião**          | *Sabedoria*    | *+1*  | *+4*  | *+5*                                         |
+| **Sobrevivência**     | *Sabedoria*    | *+1*  | *+4*  | *+5*                                         |
 
 ---
 
@@ -468,6 +470,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 * Kit de Curandeiro
 * Funda
 * 30 Pedras
+* Bota do Socorro
 * 5 diamantes (300 PO cada) 
 * Poção de regenerar membro
 * Mydemius/Myday
