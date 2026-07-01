@@ -49,7 +49,7 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 * **CD de Magia:** 21 (+2 para Evocação)
 * **Ataque Mágico:** +14
 * **Pontos de Sorte:** 4/4
-* **PO:** 1712
+* **PO:** 1212
 
 ---
 
@@ -240,14 +240,14 @@ Cura adicional ao lançar magias (1 alvo):
 
 # ⭐ **TALENTOS E HABILIDADES ADICIONAIS**
 
-* *Visão no Escuro:** Alcance de 18 metros
+* **Visão no Escuro:** Alcance de 18 metros
 * **Semblante da Esperança:** cura 1d6 + mod Carisma em uma área de 6 m (1x por descanso longo)
 * **Sortudo:** 4 pontos de sorte (ataques, testes, resistência)
 * **Macarronada da Zyneia:** +2 PV permanente
 * **Robusto:** +2 PV por nível
 * **Resiliente:** Você tem vantagem em testes de Salvaguardas Contra a Morte e com uma Ação Bônus, você pode gastar um dos seus dados de vida para se curar.
 * **Estudioso:** as suas curas aumentam +1
-* **Passada Inspirador:** Ganha uma inspiração épica a cada início. Em sessões específicas, é uma inspiração lendária.
+* **Passada Inspiradora:** Ganha uma inspiração épica a cada início. Em sessões específicas, é uma inspiração lendária.
 * **Fluxo Cuidadoso:** progressão de habilidades de cura (nível 11)
     ``` 
     Nível 0 - Você aprende a magia restauração menor, e pode conjurar ela uma vez por dia sem usar espaços de magia
@@ -262,7 +262,7 @@ Cura adicional ao lançar magias (1 alvo):
 
     Nível 20 - Somos imparáveis: Com uma ação completa, você pode estabelecer uma conexão magica com todos os aliados, unindo os pontos de vida de todos em um só, efeitos de cura nesse estado são dobrados
     ```
-* **Pastor de Ovelhas:** aura protetiva; cura reduzida em si mesmo
+* **Pastor de Ovelhas:** aura protetiva e cura reduzida em si mesmo
     ```
     Você se sente responsável por aliados próximos a você, assim como um pastor de ovelhas com o seu rebanho. Com uma ação e um espaço de magia nível 1, você pode ativar uma aura de 3 metros que concede os seguintes benefícios: sempre que um aliado precisar realizar um teste de resistência, ele ganha um bônus no teste igual ao seu modificador de Carisma, eles ganham vida temporária igual o seu valor de Carisma e não provocam ataques de oportunidade enquanto estiverem no alcance. Porém você se importa muito com seus aliados que acaba se esquecendo de se concentrar em você. Efeitos de cura tem metade de eficiência em você. Com um espaço de magia nível 2 o alcance aumenta para 9 metros e com um nível 3 aumenta para 27 metros.
     ```
@@ -282,7 +282,7 @@ Cura adicional ao lançar magias (1 alvo):
     ```
     1 vez por cena eu posso teleportar para um aliado que esteja morrendo e gasto imediatamente uma magia.
     ```
-* **Paciente 0 — Estilo de Luta:** (nível 3 -> 40% -> nível 4)
+* **Paciente 0 — Estilo de Luta:** (nível 3 -> 55% -> nível 4)
     ```
     1° Nível:
     No inicio do seu turno, escolha um efeito aplicado por
@@ -343,7 +343,7 @@ Cura adicional ao lançar magias (1 alvo):
 **Tipo:** Celestial (Ovelha Celestial)
 
 **CA:** 13  
-**PV:** 25 (5 + 5x seu nível)  
+**PV:** 40 (5 + 5x seu nível)  
 **Deslocamento:** 9 m (caminhada), 22 m (voo)
 
 **Atributos:**
@@ -370,7 +370,7 @@ FOR 14 (+2), DES 14 (+2), CON 14 (+2), INT 11 (+0), SAB 13 (+1), CAR 15 (+2)
 
 ---
 
-# 😈 **FAMILIAR — SALUS WIDE**
+# 😈 **FAMILIAR — SALUS WIDE (morto)**
 
 ![Salus](src/assets/images/Salus.png)
 
@@ -441,7 +441,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 ### **Rotação Fixa**
 
-* *Curar Ferimentos* 3x sem gastar espaço (+103 de cura cada)
+* *Curar Ferimentos* 4x sem gastar espaço (+103 de cura cada)
 * *Palavra Curativa* (+71 de cura)
 * *Palavra Curativa em Massa* (+36 de cura)
 * *Aura de Vitalidade* (+26 de cura durante 1 minuto, exije Concentração) 
@@ -456,7 +456,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 # 🎒 **INVENTÁRIO**
 
 * Símbolo Sagrado
-* Fama (nível -7)
+* Fama (nível 3)
 * Marca da Adaga com um Olho
 * Carta XV (Demônio)
 * Mascara de Ovelha

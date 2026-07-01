@@ -47,15 +47,15 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 226
-* **PV Atuais:** 226 (**+72**)
+* **PV Total:** 235
+* **PV Atuais:** 235 (**+80**)
 
 ---
 
 # 🔵 **PONTOS DE MANA**
 
-* **PM Total:** 96
-* **PM Atuais:** 96 (**+36**)
+* **PM Total:** 99
+* **PM Atuais:** 99 (**+40**)
 
 ---
 
@@ -90,8 +90,8 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 # 👑 **ESPADA DA REALEZA**
 
 **Ataque:**
-1d20 + 18 + 8 + 5
-**Dano:** 1d8 + 5
+1d20 + 18 + 8 + 3
+**Dano:** 1d8 + 5d12
 **Crítico:** 19–20/x2
 
 **Propriedades:**
@@ -127,7 +127,7 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 ---
 
-### **Benção de Megalokk — O Chamado Bestial**
+### **Benção de Megalokk (+5 ataque e dano e +10 de RD) - 1 ação padrão — O Chamado Bestial**
 
 Alcance: Curto
 Ação padrão + 5 PM →
@@ -399,70 +399,45 @@ Aura 3 m
 
 (atributo + treinamento + metade do nível + bônus extras)
 
-* **Acrobacia (Des):** +8
-* **Cura (Sab):** +16
-* **Furtividade (Des):** +8
-* **Diplomacia (Car):** +22
-* **Fortitude (Con):** +19
-* **Iniciativa (Des):** +18
-* **Intimidação (Car):** +22
-* **Investigação (Int):** +14
-* **Ladinagem (Des):** +8
-* **Luta (For):** +17
-* **Percepção (Sab):** +21
-* **Reflexos (Des):** +18
-* **Religião (Sab):** +16
-* **Vontade (Sab):** +18
+* **Acrobacia (Des):** +10
+* **Cura (Sab):** +18
+* **Furtividade (Des):** +10
+* **Diplomacia (Car):** +24
+* **Fortitude (Con):** +23
+* **Iniciativa (Des):** +20
+* **Intimidação (Car):** +24
+* **Investigação (Int):** +16
+* **Ladinagem (Des):** +10
+* **Luta (For):** +19
+* **Percepção (Sab):** +18
+* **Reflexos (Des):** +24
+* **Religião (Sab):** +18
+* **Vontade (Sab):** +22
 
 ---
 
 # 🔮 **COMBO DE COMBATE**
 
----
-
-## **TURNO 1 – EXPLOSÃO DIVINA**
-
-* 1 PM → ativar aura (ação livre)
-
-  * Cura **26 por turno**
-  * +16 e vantagem em testes de resistência
-* 1 PM → Brado Assustador (inimigos vulneráveis, –2 CA)
-* 2 PM → Julgamento Divino (Justiça – CD 28)
-* 5 PM → Surto Heroico (ação extra)
-* 2 PM → Égide Sagrada
-* 15 PM → Raio Solar (27d8, Reflexos CD 28)
-
----
-
-## **TURNO 2 – SANTIFICAÇÃO TOTAL**
-
-* Recupera 2 PM
-* 1 PM → sustentar aura
-* 1 PM → Consagrar área
-* 5 PM → Surto Heroico
-* 5 PM → Cura pelas Mãos (10d6 cura) ou remover condição (1 PM)
-* 15 PM → Raio Solar (27d8, Reflexos CD 28)
-
----
-
-## **TURNO 3 – JULGAMENTO INCENDIÁRIO**
-
-* Recupera 2 PM
-* 1 PM → sustentar aura
-* Preparar ações de cura
-* 5 PM → Surto Heroico
-* 5 PM → +5 ataque e dano; RD 10
-* **Baforada da Fênix:** 12d6 + 12 
-
----
-
-## **TURNO 4 – A MURALHA SAGRADA** (fixo)
-
-* Recupera 2 PM
-* 1 PM → sustentar aura
-* 3 PM → sustentar Megalokk
-* Preparar cura
-* **Baforada da Fênix**: 12d6 + 12
+* 1 PM → ativar aura - ação livre
+  * **+26 de cura por turno**
+  * +16 em testes de resistência
+  * Vantagem contra testes de magia
+* 1 PM → Brado Assustador (inimigos vulneráveis, –2 CA) - ação de movimento
+* 2 PM → Julgamento Divino (Justiça – Vontade CD 32)
+* 5 PM → Surto Heroico - +1 ação extra
+* 5 PM → Benção de Megalokk (+5 ataque e dano e +10 de RD) - 1 ação padrão
+* 2 PM → Égide Sagrada (+8 CA) - ação de movimento
+* 10 PM → Vingador Sagrado - ação completa
+* 20 PM → Raio Solar (26d8, Reflexos CD 32) - ação bônus
+* 5 PM → Cura pelas Mãos (10d6+5 de cura)
+* 7 PM → Ataque com espada (+1 ataque (velocidade) + Golpe Divino) - ação padrão
+  * QTD ataques: 2
+  * Acerto (Vingador Sagrado): /r 1d20+19+8+8+5+12
+  * Dano (Vingador Sagrado): /r 1d8+5d12+8+5+12
+  * Acerto (Encarnar Fênix): /r 1d20+19+8+22+16+5+12
+  * Dano (Encarnar Fênix): /r 1d8+5d12+22+16+5+12
+  * Acerto (Vingador Sagrado + Encarnar Fênix): /r 1d20+19+8+8+22+16++5+12
+  * Dano (Vingador Sagrado + Encarnar Fênix): /r 1d8+5d12+8+22+16+5+12
 
 ---
 
