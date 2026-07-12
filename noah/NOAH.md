@@ -20,6 +20,14 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 
 ---
 
+# ... **CONTINUAÇÃO**
+
+No fim, Noah Omar e seus companheiros de equipe, Inimigos da Morte Rubra, entregaram ao Skelly, vulgo Tarso, as joias que permitem o usuário se tornar um Deus. Cada um fez seu pedido, alguns buscaram livramento, outros buscaram amor e uns simplesmente assistiram o final de tudo. O Shamash foi esquecido, seu sacrifício para salvar Noah será lembrado... ao menos, nessa ficha.
+
+Obs.: Essa ficha não está 100% atualizada/corrigida. Os bônus no combo são fornecidos por personagens de sua equipe. Obrigado Noah... descance em paz.
+
+---
+
 # 📌 **INFORMAÇÕES DO PERSONAGEM**
 
 * **Nome:** Noah Omar
@@ -48,20 +56,20 @@ Foi então que um dia, seu empregador, um misterioso patrono que havia ouvido fa
 # ❤️ **PONTOS DE VIDA**
 
 * **PV Total:** 235
-* **PV Atuais:** 235 (**+80**)
+* **PV Atuais:** 235 (**+84**)
 
 ---
 
 # 🔵 **PONTOS DE MANA**
 
 * **PM Total:** 99
-* **PM Atuais:** 99 (**+40**)
+* **PM Atuais:** 99 (**+42**)
 
 ---
 
 # 🛡️ **CLASSE DE ARMADURA**
 
-* **CA Total:** 34 (**+8**)
+* **CA Total:** 34 (**+12**)
 
 ---
 
@@ -418,17 +426,22 @@ Aura 3 m
 
 # 🔮 **COMBO DE COMBATE**
 
+* 38 CA
+* +16 em testes de resistência
+* +18 em testes de Sabedoria
+* 16 d6 para testes
+* Testes de ataque e dando +16
 * 1 PM → ativar aura - ação livre
   * **+26 de cura por turno**
   * +16 em testes de resistência
   * Vantagem contra testes de magia
 * 1 PM → Brado Assustador (inimigos vulneráveis, –2 CA) - ação de movimento
-* 2 PM → Julgamento Divino (Justiça – Vontade CD 32)
+* 2 PM → Julgamento Divino (Justiça – Vontade CD 32 +12)
 * 5 PM → Surto Heroico - +1 ação extra
 * 5 PM → Benção de Megalokk (+5 ataque e dano e +10 de RD) - 1 ação padrão
 * 2 PM → Égide Sagrada (+8 CA) - ação de movimento
 * 10 PM → Vingador Sagrado - ação completa
-* 20 PM → Raio Solar (26d8, Reflexos CD 32) - ação bônus
+* 20 PM → Raio Solar (26d8, Reflexos CD 32 +12) - ação bônus
 * 5 PM → Cura pelas Mãos (10d6+5 de cura)
 * 7 PM → Ataque com espada (+1 ataque (velocidade) + Golpe Divino) - ação padrão
   * QTD ataques: 2
