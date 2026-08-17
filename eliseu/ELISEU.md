@@ -40,27 +40,27 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 * **Tendência:** Leal e Caótico
 * **Idiomas:** Comum, Celestial, Abissal
 * **Antecedente:** Fazendeiro
-* **Nível:** 7
+* **Nível:** 8
 * **[Classe](https://www.dandwiki.com/wiki/Healer_(5e_Class)#Renewal):** Curandeiro
 * **Subclasse:** Ordem dos Cavaleiros Hospitalares
-* **Bônus de Proficiência:** +4
+* **Bônus de Proficiência:** +6
 * **Iniciativa:** +7
 * **Deslocamento:** 9 m (caminhada), 9 m (voo)
 * **CD de Magia:** 21 (+2 para Evocação)
 * **Ataque Mágico:** +14
-* **Pontos de Sorte:** 4/4
+* **Pontos de Sorte:** 1/4
 * **PO:** 1212
 
 ---
 
-# 💠 **ATRIBUTOS**
+# 💠 **ATRIBUTOS (18|16|15|12|11|10)**
 
 | Atributo         | Valor  | Modificador | Salvaguarda |
 | ---------------- | ------ | ----------- | ----------- |
-| **Carisma**      | *23*   | *+7*        | *+10*       |
-| **Constituição** | *16*   | *+3*        | *+6*        |
+| **Carisma**      | *23*   | *+7*        | *+13*       |
+| **Constituição** | *16*   | *+3*        | *+9*        |
 | Destreza         | 15     | +2          | +2          |
-| Sabedoria        | 12     | +1          | +1          |
+| **Sabedoria**    | *12*   | *+1*        | *+7*        |
 | Inteligência     | 11     | +0          | +0          |
 | Força            | 10     | +0          | +0          |
 
@@ -68,8 +68,8 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 
 # ❤️ **PONTOS DE VIDA**
 
-* **PV Total:** 100 (**-5**) 
-* **PV Atuais:** 100
+* **PV Total:** 113 (**-5**) 
+* **PV Atuais:** 33
 
 ---
 
@@ -245,10 +245,11 @@ Cura adicional ao lançar magias (1 alvo):
 * **Sortudo:** 4 pontos de sorte (ataques, testes, resistência)
 * **Macarronada da Zyneia:** +2 PV permanente
 * **Robusto:** +2 PV por nível
-* **Resiliente:** Você tem vantagem em testes de Salvaguardas Contra a Morte e com uma Ação Bônus, você pode gastar um dos seus dados de vida para se curar.
+* **Resistente:** Você tem vantagem em testes de Salvaguardas Contra a Morte e com uma Ação Bônus, você pode gastar um dos seus dados de vida para se curar.
+* **Resiliente:** Você adquire proficiência em Salvaguarde de Sabedoria.
 * **Estudioso:** as suas curas aumentam +1
 * **Passada Inspiradora:** Ganha uma inspiração épica a cada início. Em sessões específicas, é uma inspiração lendária.
-* **Fluxo Cuidadoso:** progressão de habilidades de cura (nível 11)
+* **Fluxo Cuidadoso:** progressão de habilidades de cura (nível 13)
     ``` 
     Nível 0 - Você aprende a magia restauração menor, e pode conjurar ela uma vez por dia sem usar espaços de magia
 
@@ -278,7 +279,7 @@ Cura adicional ao lançar magias (1 alvo):
     ```
     Enquanto a máscara estiver com você, os espíritos te alertam do perigo, essa máscara representa o estado da sua alma. Apenas existindo e sendo carregado pelo vento fazendo o mínimo e o necessário para sobreviver. Além disso, você ganha +5 de iniciativa.
     ```
-* **Bota do Socorro (requer 1 espaço de sintonia):**
+* **Botas do Socorro (requer 1 espaço de sintonia):**
     ```
     1 vez por cena eu posso teleportar para um aliado que esteja morrendo e gasto imediatamente uma magia.
     ```
@@ -400,24 +401,24 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 | Teste                 | Atributo       | Valor | Bônus | Total                                        |
 | --------------------- | -------------- | ----- | ----- | -------------------------------------------- |
 | Acrobacia             | Força          | +0    | +0    | +0                                           |
-| **Arcanismo**         | *Inteligência* | *+0*  | *+4*  | *+4* (soma o nível para descobrir a magia)   |
+| **Arcanismo**         | *Inteligência* | *+0*  | *+6*  | *+6* (soma o nível para descobrir a magia)   |
 | Atletismo             | Força          | +0    | +0    | +0                                           |
 | Atuação               | Carisma        | +7    | +0    | +7                                           |
 | Cozinhar              |                | +13   | +0    | +13 (+40 com Macarronada / +50 com Lasanhas) |
 | Enganação             | Carisma        | +7    | +0    | +7                                           |
 | Furtividade           | Destreza       | +2    | +0    | +2                                           |
-| **História**          | *Inteligência* | *+0*  | *+4*  | *+4*  (+5 sobre deuses)                      |
+| **História**          | *Inteligência* | *+0*  | *+6*  | *+6*  (+5 sobre deuses)                      |
 | Intimidação           | Carisma        | +7    | +0    | +7                                           |
 | Intuição              | Sabedoria      | +1    | +0    | +1                                           |
-| **Investigação**      | *Inteligência* | *+0*  | *+4*  | *+4*                                         |
+| **Investigação**      | *Inteligência* | *+0*  | *+6*  | *+6*                                         |
 | **Lidar com Animais** | Sabedoria      | +1    | +0    | +2                                           |
-| **Medicina**          | *Sabedoria*    | *+1*  | *+4*  | +5                                           |
+| **Medicina**          | *Sabedoria*    | *+1*  | *+6*  | *+7*                                         |
 | Natureza              | Inteligência   | +0    | +0    | +2                                           |
-| **Percepção**         | *Sabedoria*    | *+1*  | *+2*  | *+4*                                         |
-| **Persuação**         | *Carisma*      | *+7*  | *+4*  | *+11*                                        |
+| **Percepção**         | *Sabedoria*    | *+1*  | *+6*  | *+7*                                         |
+| **Persuação**         | *Carisma*      | *+7*  | *+6*  | *+13*                                        |
 | Prestidigitação       | Destreza       | +2    | +2    | +2                                           |
-| **Religião**          | *Sabedoria*    | *+1*  | *+4*  | *+5*                                         |
-| **Sobrevivência**     | *Sabedoria*    | *+1*  | *+4*  | *+5*                                         |
+| **Religião**          | *Sabedoria*    | *+1*  | *+6*  | *+7*                                         |
+| **Sobrevivência**     | *Sabedoria*    | *+1*  | *+6*  | *+7*                                         |
 
 ---
 
@@ -499,6 +500,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 **Evento Caçada**
 * Selamos o pilar do tempo
 * O Diabo está ligado ao pilar do tempo
+* Alexus, Alixius e Isius (Aasimares)
 
 **Evento Plano da Verônica**
 * Rainha (mãe da Verônica): Vanessa 
