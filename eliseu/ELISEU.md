@@ -50,6 +50,7 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 * **Ataque Mágico:** +14
 * **Pontos de Sorte:** 1/4
 * **PO:** 1212
+* **ANFITA DE OURO:** 1
 
 ---
 
@@ -69,7 +70,7 @@ Mas para buscar aquilo que lhe faltava. Amigos. Parceiros. Meio igual a meio. E 
 # ❤️ **PONTOS DE VIDA**
 
 * **PV Total:** 113 (**-5**) 
-* **PV Atuais:** 33
+* **PV Atuais:** 113
 
 ---
 
@@ -321,7 +322,7 @@ Cura adicional ao lançar magias (1 alvo):
 
     *Contrato Corrupto:*
     ```
-    Quando você estiver corpo a corpo com algum aliado, você pode escolher tomar o dano no lugar dele sem gastar nenhuma ação.  Em casos específicos, como danos em área, permite você levar o dano no lugar do aliado, mas você só toma o dano uma vez, ao invés de duas vezes. Caso você caia ou morra, você não cai ou morre. Nisso, o mestre toma controle sobre você.
+    Quando você estiver corpo a corpo com algum aliado, você pode escolher tomar o dano no lugar dele sem gastar nenhuma ação. Em casos específicos, como danos em área, permite você levar o dano no lugar do aliado, mas você só toma o dano uma vez, ao invés de duas vezes. Caso você caia ou morra, você não cai ou morre. Nisso, o mestre toma controle sobre você.
     Obs.: O dano não pode ser redirecionado.
     ```
 
@@ -344,7 +345,7 @@ Cura adicional ao lançar magias (1 alvo):
 **Tipo:** Celestial (Ovelha Celestial)
 
 **CA:** 13  
-**PV:** 40 (5 + 5x seu nível)  
+**PV:** 45 (5 + 5x seu nível)  
 **Deslocamento:** 9 m (caminhada), 22 m (voo)
 
 **Atributos:**
@@ -442,7 +443,7 @@ FOR 3, DES 13, CON 8, INT 2, SAB 14, CAR 7
 
 ### **Rotação Fixa**
 
-* *Curar Ferimentos* 4x sem gastar espaço (+103 de cura cada)
+* *Curar Ferimentos* 6x sem gastar espaço (+103 de cura cada)
 * *Palavra Curativa* (+71 de cura)
 * *Palavra Curativa em Massa* (+36 de cura)
 * *Aura de Vitalidade* (+26 de cura durante 1 minuto, exije Concentração) 
